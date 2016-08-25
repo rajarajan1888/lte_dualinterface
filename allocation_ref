@@ -1,0 +1,20 @@
+N.P(m=0)=95
+N.P(m=1)=142
+N.P(m=2)=71
+N.P(m=3)=12 
+
+N=320 , D=200m , RBs=751
+N=320 , D = 400m , RBs = 671
+
+200m - 412 (1 sub-frame)
+400m - 410 (1 sub-frame)
+600m - 401 (2 sub-frame)
+800m - 393 (2 sub-frames)
+
+------------------------
+
+Cell center UEs : 53 Active traffic guys = 27 Center RBs : 256 Center Sub frames : 54
+CRE UEs : 128 Active traffic guys = 78 CRE RBs : 51 CRE Sub frames : 51
+ Total number of UEs : 181, Total RBs : 308 , Total sub frames : 105
+
+

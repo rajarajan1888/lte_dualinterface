@@ -1,0 +1,2 @@
+Do PDCP : 1054, Max Tx Buffer Size = 2097152 Tx Buffer Size = 0Counter = 16
+Do PDCP : 1054, Max Tx Buffer Size = 2097152 Tx Buffer Size = 1054Counter = 16

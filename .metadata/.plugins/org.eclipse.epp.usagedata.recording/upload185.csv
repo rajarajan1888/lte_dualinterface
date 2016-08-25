@@ -1,0 +1,151 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Tools/kde4.py (No such file or directory)",1362629910627
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Tools/kde4.py (No such file or directory)",1362629910627
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Tools/ccroot.py (No such file or directory)",1362629910627
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Tools/ccroot.py (No such file or directory)",1362629910627
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/ns3/_placeholder_ (No such file or directory)",1362629910628
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/ns3/_placeholder_ (No such file or directory)",1362629910628
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlPdcpStats.txt (No such file or directory)",1362629910628
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlPdcpStats.txt (No such file or directory)",1362629910628
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlRsrpSinrStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlRsrpSinrStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlPdcpStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlPdcpStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlRlcStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlRlcStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlMacStats.txt (No such file or directory)",1362629910629
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/DlMacStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlRlcStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlRlcStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlMacStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlMacStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlInterferenceStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlInterferenceStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlSinrStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/logs/UlSinrStats.txt (No such file or directory)",1362629910630
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3module_helpers.cc (No such file or directory)",1362629910631
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3module_helpers.cc (No such file or directory)",1362629910632
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulegen-modular.py (No such file or directory)",1362629910632
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulegen-modular.py (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/waf (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/waf (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3__init__.py (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3__init__.py (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/rad_util.py (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/rad_util.py (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulegen.py (No such file or directory)",1362629910633
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulegen.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulescan-modular.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulescan-modular.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns__init__.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns__init__.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulescan.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulescan.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/my_extra_api_definitions.py (No such file or directory)",1362629910634
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/my_extra_api_definitions.py (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/topsort.py (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/topsort.py (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulegen_core_customizations.py (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3modulegen_core_customizations.py (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/wscript (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/wscript (No such file or directory)",1362629910635
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns/_placeholder_ (No such file or directory)",1362629910636
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns/_placeholder_ (No such file or directory)",1362629910636
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/pch/_placeholder_ (No such file or directory)",1362629910636
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/pch/_placeholder_ (No such file or directory)",1362629910636
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3/_placeholder_ (No such file or directory)",1362629910636
+error,log,,,"/home/rajarajan/Documents/lena/att_workspace/bindings/python/ns3/_placeholder_ (No such file or directory)",1362629910636
+error,log,,,"abort: path 'newatt/src/applications/wscript' is inside nested repo 'newatt'. Command line: /home/rajarajan/Documents/lena:hg -y status -marduc -- /home/rajarajan/Documents/lena/newatt/src/applications/wscript /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-client-server-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/ping6-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/bulk-send-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/packet-sink-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/bulk-send-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-client-server-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/waf /home/rajarajan/Documents/lena/newatt/src/applications/helper/ping6-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/v4ping-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/v4ping-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-echo-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-echo-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/on-off-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/packet-sink-helper.cc, error code: 255",1362629949374
+error,log,,,"abort: path 'newatt/src/applications/wscript' is inside nested repo 'newatt'. Command line: /home/rajarajan/Documents/lena:hg -y status -marduc -- /home/rajarajan/Documents/lena/newatt/src/applications/wscript /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-client-server-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/ping6-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/bulk-send-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/packet-sink-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/bulk-send-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-client-server-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/waf /home/rajarajan/Documents/lena/newatt/src/applications/helper/ping6-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/v4ping-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/v4ping-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-echo-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/helper/udp-echo-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/on-off-helper.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/packet-sink-helper.cc",1362629949374
+error,log,,,"abort: path 'newatt/src/applications/model/onoff-application.cc' is inside nested repo 'newatt'. Command line: /home/rajarajan/Documents/lena:hg -y status -marduc -- /home/rajarajan/Documents/lena/newatt/src/applications/model/onoff-application.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-client.cc /home/rajarajan/Documents/lena/newatt/src/applications/test/udp-client-server-test.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-loss-counter.h /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-prefix.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-prefix.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-server.h /home/rajarajan/Documents/lena/newatt/src/applications/doc/applications.h /home/rajarajan/Documents/lena/newatt/src/applications/model/v4ping.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/ping6.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-client.h /home/rajarajan/Documents/lena/newatt/src/applications/model/onoff-application.h /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-sink.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-server.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/bulk-send-application.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-trace-client.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-client.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/on-off-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/ping6.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-client.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-interface.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-server.h /home/rajarajan/Documents/lena/newatt/src/applications/model/bulk-send-application.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-server.cc /home/rajarajan/Documents/lena/newatt/src/applications/bindings/modulegen__gcc_ILP32.py /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-sink.cc /home/rajarajan/Documents/lena/newatt/src/applications/doc/applications.rst /home/rajarajan/Documents/lena/newatt/src/applications/bindings/modulegen_customizations.py /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-loss-counter.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd.h /home/rajarajan/Documents/lena/newatt/src/applications/model/v4ping.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-trace-client.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/seq-ts-header.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-interface.h /home/rajarajan/Documents/lena/newatt/src/applications/model/seq-ts-header.h /home/rajarajan/Documents/lena/newatt/src/applications/bindings/modulegen__gcc_LP64.py, error code: 255",1362629951071
+error,log,,,"abort: path 'newatt/src/applications/model/onoff-application.cc' is inside nested repo 'newatt'. Command line: /home/rajarajan/Documents/lena:hg -y status -marduc -- /home/rajarajan/Documents/lena/newatt/src/applications/model/onoff-application.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-client.cc /home/rajarajan/Documents/lena/newatt/src/applications/test/udp-client-server-test.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-loss-counter.h /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-prefix.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-prefix.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-server.h /home/rajarajan/Documents/lena/newatt/src/applications/doc/applications.h /home/rajarajan/Documents/lena/newatt/src/applications/model/v4ping.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/ping6.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-client.h /home/rajarajan/Documents/lena/newatt/src/applications/model/onoff-application.h /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-sink.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-server.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/bulk-send-application.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-trace-client.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-client.h /home/rajarajan/Documents/lena/newatt/src/applications/helper/on-off-helper.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/ping6.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-echo-client.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-interface.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-server.h /home/rajarajan/Documents/lena/newatt/src/applications/model/bulk-send-application.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-server.cc /home/rajarajan/Documents/lena/newatt/src/applications/bindings/modulegen__gcc_ILP32.py /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-sink.cc /home/rajarajan/Documents/lena/newatt/src/applications/doc/applications.rst /home/rajarajan/Documents/lena/newatt/src/applications/bindings/modulegen_customizations.py /home/rajarajan/Documents/lena/newatt/src/applications/model/packet-loss-counter.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd.h /home/rajarajan/Documents/lena/newatt/src/applications/model/v4ping.h /home/rajarajan/Documents/lena/newatt/src/applications/model/udp-trace-client.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/seq-ts-header.cc /home/rajarajan/Documents/lena/newatt/src/applications/model/radvd-interface.h /home/rajarajan/Documents/lena/newatt/src/applications/model/seq-ts-header.h /home/rajarajan/Documents/lena/newatt/src/applications/bindings/modulegen__gcc_LP64.py",1362629951072
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1362629976625
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1362629976625
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362629976648
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362629978815
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362629987355
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362629987363
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362629987560
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630056968
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630056968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630056998
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630057170
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630057837
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630057837
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630057862
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630058045
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630059016
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630059016
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630059043
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630059183
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630059374
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630059374
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630059400
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630059578
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630059659
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630059659
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630059680
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630059830
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630060049
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630060050
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630060076
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630060214
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630060410
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630060411
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630060439
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630060587
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630060775
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630060775
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630060796
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630060934
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630061162
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630061162
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630061190
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630061327
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630061524
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630061524
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630061553
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630061697
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630061888
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630061889
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630061909
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630062059
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630062266
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630062267
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630062289
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630062442
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630062642
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630062642
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630062666
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630062844
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630063048
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630063048
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630063068
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630063236
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630063449
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630063449
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630063470
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630063616
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630063840
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630063842
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630063863
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630064016
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630064242
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630064242
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630064261
+opened,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630064526
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630064605
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630064605
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1362630066783
+opened,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630093855
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630093916
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1362630093928
+opened,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630159293
+activated,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630159367
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1362630159378
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1362630162046
+closed,editor,org.eclipse.cdt.ui,5.3.0.201106081058,"org.eclipse.cdt.ui.editor.CEditor",1362630162233
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630167132
+closed,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1362630169046
+stopped,bundle,org.eclipse.cdt.build.crossgcc,1.0.0.201106081058,"org.eclipse.cdt.build.crossgcc",1362630191879
+stopped,bundle,org.eclipse.cdt.codan.checkers,1.0.0.201106081058,"org.eclipse.cdt.codan.checkers",1362630191879

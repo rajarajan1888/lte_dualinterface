@@ -1,0 +1,406 @@
+0x80d44f0 P10 periodicity, PRB 1 CQI : 15
+0x80d44f0 P10 periodicity, PRB 2 CQI : 15
+0x80d44f0 P10 periodicity, PRB 3 CQI : 15
+0x80d44f0 P10 periodicity, PRB 4 CQI : 15
+0x80d44f0 P10 periodicity, PRB 5 CQI : 15
+0x80d44f0 P10 periodicity, PRB 6 CQI : 15
+0x80d44f0 P10 periodicity, PRB 7 CQI : 15
+0x80d44f0 P10 periodicity, PRB 8 CQI : 15
+0x80d44f0 P10 periodicity, PRB 9 CQI : 15
+0x80d44f0 P10 periodicity, PRB 10 CQI : 15
+0x80d44f0 P10 periodicity, PRB 11 CQI : 15
+0x80d44f0 P10 periodicity, PRB 12 CQI : 15
+0x80d44f0 P10 periodicity, PRB 13 CQI : 15
+0x80d44f0 P10 periodicity, PRB 14 CQI : 15
+0x80d44f0 P10 periodicity, PRB 15 CQI : 15
+0x80d44f0 P10 periodicity, PRB 16 CQI : 15
+0x80d44f0 P10 periodicity, PRB 17 CQI : 15
+0x80d44f0 P10 periodicity, PRB 18 CQI : 15
+0x80d44f0 P10 periodicity, PRB 19 CQI : 15
+0x80d44f0 P10 periodicity, PRB 20 CQI : 15
+0x80d44f0 P10 periodicity, PRB 21 CQI : 15
+0x80d44f0 P10 periodicity, PRB 22 CQI : 15
+0x80d44f0 P10 periodicity, PRB 23 CQI : 15
+0x80d44f0 P10 periodicity, PRB 24 CQI : 15
+0x80d44f0 P10 periodicity, PRB 25 CQI : 15
+0x80d44f0 P10 periodicity, PRB 26 CQI : 15
+0x80d44f0 P10 periodicity, PRB 27 CQI : 15
+0x80d44f0 P10 periodicity, PRB 28 CQI : 15
+0x80d44f0 P10 periodicity, PRB 29 CQI : 15
+0x80d44f0 P10 periodicity, PRB 30 CQI : 15
+0x80d44f0 P10 periodicity, PRB 31 CQI : 15
+0x80d44f0 P10 periodicity, PRB 32 CQI : 15
+0x80d44f0 P10 periodicity, PRB 33 CQI : 15
+0x80d44f0 P10 periodicity, PRB 34 CQI : 15
+0x80d44f0 P10 periodicity, PRB 35 CQI : 15
+0x80d44f0 P10 periodicity, PRB 36 CQI : 15
+0x80d44f0 P10 periodicity, PRB 37 CQI : 15
+0x80d44f0 P10 periodicity, PRB 38 CQI : 15
+0x80d44f0 P10 periodicity, PRB 39 CQI : 15
+0x80d44f0 P10 periodicity, PRB 40 CQI : 15
+0x80d44f0 P10 periodicity, PRB 41 CQI : 15
+0x80d44f0 P10 periodicity, PRB 42 CQI : 15
+0x80d44f0 P10 periodicity, PRB 43 CQI : 15
+0x80d44f0 P10 periodicity, PRB 44 CQI : 15
+0x80d44f0 P10 periodicity, PRB 45 CQI : 15
+0x80d44f0 P10 periodicity, PRB 46 CQI : 15
+0x80d44f0 P10 periodicity, PRB 47 CQI : 15
+0x80d44f0 P10 periodicity, PRB 48 CQI : 15
+0x80d44f0 P10 periodicity, PRB 49 CQI : 15
+0x80d44f0 P10 periodicity, PRB 50 CQI : 15
+ P10 : Layer : 1 Pushing back : 150x80d44f0 A30 periodicity, PRB 1 CQI : 15
+0x80d44f0 A30 periodicity, PRB 2 CQI : 15
+0x80d44f0 A30 periodicity, PRB 3 CQI : 15
+0x80d44f0 A30 periodicity, PRB 4 CQI : 15
+0x80d44f0 A30 periodicity, PRB 5 CQI : 15
+0x80d44f0 A30 periodicity, PRB 6 CQI : 15
+0x80d44f0 A30 periodicity, PRB 7 CQI : 15
+0x80d44f0 A30 periodicity, PRB 8 CQI : 15
+0x80d44f0 A30 periodicity, PRB 9 CQI : 15
+0x80d44f0 A30 periodicity, PRB 10 CQI : 15
+0x80d44f0 A30 periodicity, PRB 11 CQI : 15
+0x80d44f0 A30 periodicity, PRB 12 CQI : 15
+0x80d44f0 A30 periodicity, PRB 13 CQI : 15
+0x80d44f0 A30 periodicity, PRB 14 CQI : 15
+0x80d44f0 A30 periodicity, PRB 15 CQI : 15
+0x80d44f0 A30 periodicity, PRB 16 CQI : 15
+0x80d44f0 A30 periodicity, PRB 17 CQI : 15
+0x80d44f0 A30 periodicity, PRB 18 CQI : 15
+0x80d44f0 A30 periodicity, PRB 19 CQI : 15
+0x80d44f0 A30 periodicity, PRB 20 CQI : 15
+0x80d44f0 A30 periodicity, PRB 21 CQI : 15
+0x80d44f0 A30 periodicity, PRB 22 CQI : 15
+0x80d44f0 A30 periodicity, PRB 23 CQI : 15
+0x80d44f0 A30 periodicity, PRB 24 CQI : 15
+0x80d44f0 A30 periodicity, PRB 25 CQI : 15
+0x80d44f0 A30 periodicity, PRB 26 CQI : 15
+0x80d44f0 A30 periodicity, PRB 27 CQI : 15
+0x80d44f0 A30 periodicity, PRB 28 CQI : 15
+0x80d44f0 A30 periodicity, PRB 29 CQI : 15
+0x80d44f0 A30 periodicity, PRB 30 CQI : 15
+0x80d44f0 A30 periodicity, PRB 31 CQI : 15
+0x80d44f0 A30 periodicity, PRB 32 CQI : 15
+0x80d44f0 A30 periodicity, PRB 33 CQI : 15
+0x80d44f0 A30 periodicity, PRB 34 CQI : 15
+0x80d44f0 A30 periodicity, PRB 35 CQI : 15
+0x80d44f0 A30 periodicity, PRB 36 CQI : 15
+0x80d44f0 A30 periodicity, PRB 37 CQI : 15
+0x80d44f0 A30 periodicity, PRB 38 CQI : 15
+0x80d44f0 A30 periodicity, PRB 39 CQI : 15
+0x80d44f0 A30 periodicity, PRB 40 CQI : 15
+0x80d44f0 A30 periodicity, PRB 41 CQI : 15
+0x80d44f0 A30 periodicity, PRB 42 CQI : 15
+0x80d44f0 A30 periodicity, PRB 43 CQI : 15
+0x80d44f0 A30 periodicity, PRB 44 CQI : 15
+0x80d44f0 A30 periodicity, PRB 45 CQI : 15
+0x80d44f0 A30 periodicity, PRB 46 CQI : 15
+0x80d44f0 A30 periodicity, PRB 47 CQI : 15
+0x80d44f0 A30 periodicity, PRB 48 CQI : 15
+0x80d44f0 A30 periodicity, PRB 49 CQI : 15
+0x80d44f0 A30 periodicity, PRB 50 CQI : 15
+0x80d44f0 A30 periodicity, PRB 51 CQI : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+ A30 CQI Pushing back : 15
+0x80d5e58 P10 periodicity, PRB 1 CQI : 0
+0x80d5e58 P10 periodicity, PRB 2 CQI : 0
+0x80d5e58 P10 periodicity, PRB 3 CQI : 0
+0x80d5e58 P10 periodicity, PRB 4 CQI : 0
+0x80d5e58 P10 periodicity, PRB 5 CQI : 0
+0x80d5e58 P10 periodicity, PRB 6 CQI : 0
+0x80d5e58 P10 periodicity, PRB 7 CQI : 0
+0x80d5e58 P10 periodicity, PRB 8 CQI : 0
+0x80d5e58 P10 periodicity, PRB 9 CQI : 0
+0x80d5e58 P10 periodicity, PRB 10 CQI : 0
+0x80d5e58 P10 periodicity, PRB 11 CQI : 0
+0x80d5e58 P10 periodicity, PRB 12 CQI : 0
+0x80d5e58 P10 periodicity, PRB 13 CQI : 0
+0x80d5e58 P10 periodicity, PRB 14 CQI : 0
+0x80d5e58 P10 periodicity, PRB 15 CQI : 0
+0x80d5e58 P10 periodicity, PRB 16 CQI : 0
+0x80d5e58 P10 periodicity, PRB 17 CQI : 0
+0x80d5e58 P10 periodicity, PRB 18 CQI : 0
+0x80d5e58 P10 periodicity, PRB 19 CQI : 0
+0x80d5e58 P10 periodicity, PRB 20 CQI : 0
+0x80d5e58 P10 periodicity, PRB 21 CQI : 0
+0x80d5e58 P10 periodicity, PRB 22 CQI : 0
+0x80d5e58 P10 periodicity, PRB 23 CQI : 0
+0x80d5e58 P10 periodicity, PRB 24 CQI : 0
+0x80d5e58 P10 periodicity, PRB 25 CQI : 0
+0x80d5e58 P10 periodicity, PRB 26 CQI : 0
+0x80d5e58 P10 periodicity, PRB 27 CQI : 0
+0x80d5e58 P10 periodicity, PRB 28 CQI : 0
+0x80d5e58 P10 periodicity, PRB 29 CQI : 0
+0x80d5e58 P10 periodicity, PRB 30 CQI : 0
+0x80d5e58 P10 periodicity, PRB 31 CQI : 0
+0x80d5e58 P10 periodicity, PRB 32 CQI : 0
+0x80d5e58 P10 periodicity, PRB 33 CQI : 0
+0x80d5e58 P10 periodicity, PRB 34 CQI : 0
+0x80d5e58 P10 periodicity, PRB 35 CQI : 0
+0x80d5e58 P10 periodicity, PRB 36 CQI : 0
+0x80d5e58 P10 periodicity, PRB 37 CQI : 0
+0x80d5e58 P10 periodicity, PRB 38 CQI : 0
+0x80d5e58 P10 periodicity, PRB 39 CQI : 0
+0x80d5e58 P10 periodicity, PRB 40 CQI : 0
+0x80d5e58 P10 periodicity, PRB 41 CQI : 0
+0x80d5e58 P10 periodicity, PRB 42 CQI : 0
+0x80d5e58 P10 periodicity, PRB 43 CQI : 0
+0x80d5e58 P10 periodicity, PRB 44 CQI : 0
+0x80d5e58 P10 periodicity, PRB 45 CQI : 0
+0x80d5e58 P10 periodicity, PRB 46 CQI : 0
+0x80d5e58 P10 periodicity, PRB 47 CQI : 0
+0x80d5e58 P10 periodicity, PRB 48 CQI : 0
+0x80d5e58 P10 periodicity, PRB 49 CQI : 0
+0x80d5e58 P10 periodicity, PRB 50 CQI : 0
+ P10 : Layer : 1 Pushing back : 00x80d5e58 A30 periodicity, PRB 1 CQI : 0
+0x80d5e58 A30 periodicity, PRB 2 CQI : 0
+0x80d5e58 A30 periodicity, PRB 3 CQI : 0
+0x80d5e58 A30 periodicity, PRB 4 CQI : 0
+0x80d5e58 A30 periodicity, PRB 5 CQI : 0
+0x80d5e58 A30 periodicity, PRB 6 CQI : 0
+0x80d5e58 A30 periodicity, PRB 7 CQI : 0
+0x80d5e58 A30 periodicity, PRB 8 CQI : 0
+0x80d5e58 A30 periodicity, PRB 9 CQI : 0
+0x80d5e58 A30 periodicity, PRB 10 CQI : 0
+0x80d5e58 A30 periodicity, PRB 11 CQI : 0
+0x80d5e58 A30 periodicity, PRB 12 CQI : 0
+0x80d5e58 A30 periodicity, PRB 13 CQI : 0
+0x80d5e58 A30 periodicity, PRB 14 CQI : 0
+0x80d5e58 A30 periodicity, PRB 15 CQI : 0
+0x80d5e58 A30 periodicity, PRB 16 CQI : 0
+0x80d5e58 A30 periodicity, PRB 17 CQI : 0
+0x80d5e58 A30 periodicity, PRB 18 CQI : 0
+0x80d5e58 A30 periodicity, PRB 19 CQI : 0
+0x80d5e58 A30 periodicity, PRB 20 CQI : 0
+0x80d5e58 A30 periodicity, PRB 21 CQI : 0
+0x80d5e58 A30 periodicity, PRB 22 CQI : 0
+0x80d5e58 A30 periodicity, PRB 23 CQI : 0
+0x80d5e58 A30 periodicity, PRB 24 CQI : 0
+0x80d5e58 A30 periodicity, PRB 25 CQI : 0
+0x80d5e58 A30 periodicity, PRB 26 CQI : 0
+0x80d5e58 A30 periodicity, PRB 27 CQI : 0
+0x80d5e58 A30 periodicity, PRB 28 CQI : 0
+0x80d5e58 A30 periodicity, PRB 29 CQI : 0
+0x80d5e58 A30 periodicity, PRB 30 CQI : 0
+0x80d5e58 A30 periodicity, PRB 31 CQI : 0
+0x80d5e58 A30 periodicity, PRB 32 CQI : 0
+0x80d5e58 A30 periodicity, PRB 33 CQI : 0
+0x80d5e58 A30 periodicity, PRB 34 CQI : 0
+0x80d5e58 A30 periodicity, PRB 35 CQI : 0
+0x80d5e58 A30 periodicity, PRB 36 CQI : 0
+0x80d5e58 A30 periodicity, PRB 37 CQI : 0
+0x80d5e58 A30 periodicity, PRB 38 CQI : 0
+0x80d5e58 A30 periodicity, PRB 39 CQI : 0
+0x80d5e58 A30 periodicity, PRB 40 CQI : 0
+0x80d5e58 A30 periodicity, PRB 41 CQI : 0
+0x80d5e58 A30 periodicity, PRB 42 CQI : 0
+0x80d5e58 A30 periodicity, PRB 43 CQI : 0
+0x80d5e58 A30 periodicity, PRB 44 CQI : 0
+0x80d5e58 A30 periodicity, PRB 45 CQI : 0
+0x80d5e58 A30 periodicity, PRB 46 CQI : 0
+0x80d5e58 A30 periodicity, PRB 47 CQI : 0
+0x80d5e58 A30 periodicity, PRB 48 CQI : 0
+0x80d5e58 A30 periodicity, PRB 49 CQI : 0
+0x80d5e58 A30 periodicity, PRB 50 CQI : 0
+0x80d5e58 A30 periodicity, PRB 51 CQI : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+0x80d7900 P10 periodicity, PRB 1 CQI : 0
+0x80d7900 P10 periodicity, PRB 2 CQI : 0
+0x80d7900 P10 periodicity, PRB 3 CQI : 0
+0x80d7900 P10 periodicity, PRB 4 CQI : 0
+0x80d7900 P10 periodicity, PRB 5 CQI : 0
+0x80d7900 P10 periodicity, PRB 6 CQI : 0
+0x80d7900 P10 periodicity, PRB 7 CQI : 0
+0x80d7900 P10 periodicity, PRB 8 CQI : 0
+0x80d7900 P10 periodicity, PRB 9 CQI : 0
+0x80d7900 P10 periodicity, PRB 10 CQI : 0
+0x80d7900 P10 periodicity, PRB 11 CQI : 0
+0x80d7900 P10 periodicity, PRB 12 CQI : 0
+0x80d7900 P10 periodicity, PRB 13 CQI : 0
+0x80d7900 P10 periodicity, PRB 14 CQI : 0
+0x80d7900 P10 periodicity, PRB 15 CQI : 0
+0x80d7900 P10 periodicity, PRB 16 CQI : 0
+0x80d7900 P10 periodicity, PRB 17 CQI : 0
+0x80d7900 P10 periodicity, PRB 18 CQI : 0
+0x80d7900 P10 periodicity, PRB 19 CQI : 0
+0x80d7900 P10 periodicity, PRB 20 CQI : 0
+0x80d7900 P10 periodicity, PRB 21 CQI : 0
+0x80d7900 P10 periodicity, PRB 22 CQI : 0
+0x80d7900 P10 periodicity, PRB 23 CQI : 0
+0x80d7900 P10 periodicity, PRB 24 CQI : 0
+0x80d7900 P10 periodicity, PRB 25 CQI : 0
+0x80d7900 P10 periodicity, PRB 26 CQI : 0
+0x80d7900 P10 periodicity, PRB 27 CQI : 0
+0x80d7900 P10 periodicity, PRB 28 CQI : 0
+0x80d7900 P10 periodicity, PRB 29 CQI : 0
+0x80d7900 P10 periodicity, PRB 30 CQI : 0
+0x80d7900 P10 periodicity, PRB 31 CQI : 0
+0x80d7900 P10 periodicity, PRB 32 CQI : 0
+0x80d7900 P10 periodicity, PRB 33 CQI : 0
+0x80d7900 P10 periodicity, PRB 34 CQI : 0
+0x80d7900 P10 periodicity, PRB 35 CQI : 0
+0x80d7900 P10 periodicity, PRB 36 CQI : 0
+0x80d7900 P10 periodicity, PRB 37 CQI : 0
+0x80d7900 P10 periodicity, PRB 38 CQI : 0
+0x80d7900 P10 periodicity, PRB 39 CQI : 0
+0x80d7900 P10 periodicity, PRB 40 CQI : 0
+0x80d7900 P10 periodicity, PRB 41 CQI : 0
+0x80d7900 P10 periodicity, PRB 42 CQI : 0
+0x80d7900 P10 periodicity, PRB 43 CQI : 0
+0x80d7900 P10 periodicity, PRB 44 CQI : 0
+0x80d7900 P10 periodicity, PRB 45 CQI : 0
+0x80d7900 P10 periodicity, PRB 46 CQI : 0
+0x80d7900 P10 periodicity, PRB 47 CQI : 0
+0x80d7900 P10 periodicity, PRB 48 CQI : 0
+0x80d7900 P10 periodicity, PRB 49 CQI : 0
+0x80d7900 P10 periodicity, PRB 50 CQI : 0
+ P10 : Layer : 1 Pushing back : 00x80d7900 A30 periodicity, PRB 1 CQI : 0
+0x80d7900 A30 periodicity, PRB 2 CQI : 0
+0x80d7900 A30 periodicity, PRB 3 CQI : 0
+0x80d7900 A30 periodicity, PRB 4 CQI : 0
+0x80d7900 A30 periodicity, PRB 5 CQI : 0
+0x80d7900 A30 periodicity, PRB 6 CQI : 0
+0x80d7900 A30 periodicity, PRB 7 CQI : 0
+0x80d7900 A30 periodicity, PRB 8 CQI : 0
+0x80d7900 A30 periodicity, PRB 9 CQI : 0
+0x80d7900 A30 periodicity, PRB 10 CQI : 0
+0x80d7900 A30 periodicity, PRB 11 CQI : 0
+0x80d7900 A30 periodicity, PRB 12 CQI : 0
+0x80d7900 A30 periodicity, PRB 13 CQI : 0
+0x80d7900 A30 periodicity, PRB 14 CQI : 0
+0x80d7900 A30 periodicity, PRB 15 CQI : 0
+0x80d7900 A30 periodicity, PRB 16 CQI : 0
+0x80d7900 A30 periodicity, PRB 17 CQI : 0
+0x80d7900 A30 periodicity, PRB 18 CQI : 0
+0x80d7900 A30 periodicity, PRB 19 CQI : 0
+0x80d7900 A30 periodicity, PRB 20 CQI : 0
+0x80d7900 A30 periodicity, PRB 21 CQI : 0
+0x80d7900 A30 periodicity, PRB 22 CQI : 0
+0x80d7900 A30 periodicity, PRB 23 CQI : 0
+0x80d7900 A30 periodicity, PRB 24 CQI : 0
+0x80d7900 A30 periodicity, PRB 25 CQI : 0
+0x80d7900 A30 periodicity, PRB 26 CQI : 0
+0x80d7900 A30 periodicity, PRB 27 CQI : 0
+0x80d7900 A30 periodicity, PRB 28 CQI : 0
+0x80d7900 A30 periodicity, PRB 29 CQI : 0
+0x80d7900 A30 periodicity, PRB 30 CQI : 0
+0x80d7900 A30 periodicity, PRB 31 CQI : 0
+0x80d7900 A30 periodicity, PRB 32 CQI : 0
+0x80d7900 A30 periodicity, PRB 33 CQI : 0
+0x80d7900 A30 periodicity, PRB 34 CQI : 0
+0x80d7900 A30 periodicity, PRB 35 CQI : 0
+0x80d7900 A30 periodicity, PRB 36 CQI : 0
+0x80d7900 A30 periodicity, PRB 37 CQI : 0
+0x80d7900 A30 periodicity, PRB 38 CQI : 0
+0x80d7900 A30 periodicity, PRB 39 CQI : 0
+0x80d7900 A30 periodicity, PRB 40 CQI : 0
+0x80d7900 A30 periodicity, PRB 41 CQI : 0
+0x80d7900 A30 periodicity, PRB 42 CQI : 0
+0x80d7900 A30 periodicity, PRB 43 CQI : 0
+0x80d7900 A30 periodicity, PRB 44 CQI : 0
+0x80d7900 A30 periodicity, PRB 45 CQI : 0
+0x80d7900 A30 periodicity, PRB 46 CQI : 0
+0x80d7900 A30 periodicity, PRB 47 CQI : 0
+0x80d7900 A30 periodicity, PRB 48 CQI : 0
+0x80d7900 A30 periodicity, PRB 49 CQI : 0
+0x80d7900 A30 periodicity, PRB 50 CQI : 0
+0x80d7900 A30 periodicity, PRB 51 CQI : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+ A30 CQI Pushing back : 0
+0x80d5140 P10 periodicity, PRB 1 CQI : 0
+0x80d5140 P10 periodicity, PRB 2 CQI : 0
+0x80d5140 P10 periodicity, PRB 3 CQI : 0
+0x80d5140 P10 periodicity, PRB 4 CQI : 0
+0x80d5140 P10 periodicity, PRB 5 CQI : 0
+0x80d5140 P10 periodicity, PRB 6 CQI : 0
+0x80d5140 P10 periodicity, PRB 7 CQI : 0
+0x80d5140 P10 periodicity, PRB 8 CQI : 0
+0x80d5140 P10 periodicity, PRB 9 CQI : 0
+0x80d5140 P10 periodicity, PRB 10 CQI : 0
+0x80d5140 P10 periodicity, PRB 11 CQI : 0
+0x80d5140 P10 periodicity, PRB 12 CQI : 0
+0x80d5140 P10 periodicity, PRB 13 CQI : 0
+0x80d5140 P10 periodicity, PRB 14 CQI : 0
+0x80d5140 P10 periodicity, PRB 15 CQI : 0
+0x80d5140 P10 periodicity, PRB 16 CQI : 0
+0x80d5140 P10 periodicity, PRB 17 CQI : 0
+0x80d5140 P10 periodicity, PRB 18 CQI : 0
+0x80d5140 P10 periodicity, PRB 19 CQI : 0
+0x80d5140 P10 periodicity, PRB 20 CQI : 0
+0x80d5140 P10 periodicity, PRB 21 CQI : 0
+0x80d5140 P10 periodicity, PRB 22 CQI : 0
+0x80d5140 P10 periodicity, PRB 23 CQI : 0
+0x80d5140 P10 periodicity, PRB 24 CQI : 0
+0x80d5140 P10 periodicity, PRB 25 CQI : 0
+0x80d5140 P10 periodicity, PRB 26 CQI : 0
+0x80d5140 P10 periodicity, PRB 27 CQI : 0
+0x80d5140 P10 periodicity, PRB 28 CQI : 0
+0x80d5140 P10 periodicity, PRB 29 CQI : 0
+0x80d5140 P10 periodicity, PRB 30 CQI : 0
+0x80d5140 P10 periodicity, PRB 31 CQI : 0
+0x80d5140 P10 periodicity, PRB 32 CQI : 0
+0x80d5140 P10 periodicity, PRB 33 CQI : 0
+0x80d5140 P10 periodicity, PRB 34 CQI : 0
+0x80d5140 P10 periodicity, PRB 35 CQI : 0
+0x80d5140 P10 periodicity, PRB 36 CQI : 0
+0x80d5140 P10 periodicity, PRB 37 CQI : 0
+0x80d5140 P10 periodicity, PRB 38 CQI : 0
+0x80d5140 P10 periodicity, PRB 39 CQI : 0
+0x80d5140 P10 periodicity, PRB 40 CQI : 0
+0x80d5140 P10 periodicity, PRB 41 CQI : 0
+0x80d5140 P10 periodicity, PRB 42 CQI : 0
+0x80d5140 P10 periodicity, PRB 43 CQI : 0
+0x80d5140 P10 periodicity, PRB 44 CQI : 0
+0x80d5140 P10 periodicity, PRB 45 CQI : 0
+0x80d5140 P10 periodicity, PRB 46 CQI : 0
+0x80d5140 P10 periodicity, PRB 47 CQI : 0
+0x80d5140 P10 periodicity, PRB 48 CQI : 0
+0x80d5140 P10 periodicity, PRB 49 CQI : 0
+0x80d5140 P10 periodicity, PRB 50 CQI : 0
+ P10 : Layer : 1 Pushing back : 00x80d5140 A30 periodicity, PRB 1 CQI : 0
+0x80d5140

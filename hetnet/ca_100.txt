@@ -1,0 +1,953 @@
+1,0.15,distance = 826.356
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1280.98
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 807.382
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1018.34
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 681.542
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 997.295
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.529977,distance = 352.165
+Excess throughput over 250 RBs = 17489.2
+0,No. of RBs: 0
+1,0.15,distance = 895.911
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 601.147
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1383.94
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,3.0674,distance = 158.269
+Excess throughput over 250 RBs = 101224
+0,No. of RBs: 0
+1,0.15,distance = 676.831
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 701.001
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 913.173
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.251585,distance = 447.877
+Excess throughput over 250 RBs = 8302.29
+0.016,No. of RBs: 1
+1,0.15,distance = 1025.92
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 891.203
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 632.013
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.257289,distance = 444.775
+Excess throughput over 250 RBs = 8490.54
+0.016,No. of RBs: 1
+1,0.15,distance = 644.745
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,1.27529,distance = 253
+Excess throughput over 250 RBs = 42084.7
+0,No. of RBs: 0
+1,0.15,distance = 529.417
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1100.25
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,2.25754,distance = 191.481
+Excess throughput over 250 RBs = 74498.9
+0.016,No. of RBs: 1
+1,2.22923,distance = 192.842
+Excess throughput over 250 RBs = 73564.6
+0.016,No. of RBs: 1
+1,0.15,distance = 848.77
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 936.74
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 697.207
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 870.582
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,3.07525,distance = 157.991
+Excess throughput over 250 RBs = 101483
+0,No. of RBs: 0
+1,0.15,distance = 863.53
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.722988,distance = 315.9
+Excess throughput over 250 RBs = 23858.6
+0,No. of RBs: 0
+1,0.15,distance = 939.341
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.169898,distance = 504.882
+Excess throughput over 250 RBs = 5606.63
+0,No. of RBs: 0
+1,0.15,distance = 761.318
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 912.764
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 945.239
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.251245,distance = 448.065
+Excess throughput over 250 RBs = 8291.08
+0.016,No. of RBs: 1
+1,0.15,distance = 926.634
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 830.22
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.754685,distance = 311.014
+Excess throughput over 250 RBs = 24904.6
+0.032,No. of RBs: 1
+1,2.61673,distance = 175.525
+Excess throughput over 250 RBs = 86351.9
+0,No. of RBs: 0
+1,0.15,distance = 882.479
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 961.514
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 683.52
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 569.38
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1074.61
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 801.48
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 860.277
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+0
+1,0.15,distance = 857.756
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.328141,distance = 412.083
+Excess throughput over 250 RBs = 10828.7
+0.016,No. of RBs: 1
+1,0.15,distance = 1261.58
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1213.31
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1041.61
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 706.805
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 606.422
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 695.058
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 712.885
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1045.63
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,1.44579,distance = 239.437
+Excess throughput over 250 RBs = 47711
+0,No. of RBs: 0
+1,0.15,distance = 992.119
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 655.412
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.163781,distance = 510.484
+Excess throughput over 250 RBs = 5404.76
+0.016,No. of RBs: 1
+1,0.15,distance = 811.483
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+0
+1,0.15,distance = 877.878
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 780.801
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1227
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 681.349
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 929.512
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1020.16
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.538444,distance = 350.271
+Excess throughput over 250 RBs = 17768.7
+0,No. of RBs: 0
+1,0.15,distance = 986.811
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,5.5,distance = 93.6483
+Excess throughput over 250 RBs = 181500
+0,No. of RBs: 0
+1,0.15,distance = 1102.55
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1141.19
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 736.837
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.367277,distance = 397.498
+Excess throughput over 250 RBs = 12120.1
+0,No. of RBs: 0
+1,0.15,distance = 699.143
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 869.571
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 650.8
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.42908,distance = 377.895
+Excess throughput over 250 RBs = 14159.7
+0,No. of RBs: 0
+1,0.202744,distance = 478.566
+Excess throughput over 250 RBs = 6690.55
+0,No. of RBs: 0
+1,0.15,distance = 844.287
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,1.88679,distance = 210.794
+Excess throughput over 250 RBs = 62264.1
+0,No. of RBs: 0
+0
+1,0.15,distance = 825.121
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 969.005
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 710.631
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1060.36
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.194695,distance = 484.5
+Excess throughput over 250 RBs = 6424.92
+0.016,No. of RBs: 1
+0
+1,0.15,distance = 926.013
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 667.007
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 995.643
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 596.825
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 951.719
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1283
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,4.1056,distance = 126.463
+Excess throughput over 250 RBs = 135485
+0.032,No. of RBs: 1
+1,0.15,distance = 1262.19
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1128.83
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.206876,distance = 475.631
+Excess throughput over 250 RBs = 6826.92
+0.032,No. of RBs: 2
+1,0.15,distance = 888.298
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1157.21
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 827.357
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1024.54
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 862.492
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 632.52
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 887.435
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 855.068
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 938.81
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 571.284
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.520146,distance = 354.408
+Excess throughput over 250 RBs = 17164.8
+0,No. of RBs: 0
+1,0.15,distance = 914.145
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1021.48
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1097.45
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1095.81
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1100.26
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 547.22
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1047.98
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 714.616
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.150404,distance = 523.696
+Excess throughput over 250 RBs = 4963.34
+0,No. of RBs: 0
+1,0.15,distance = 1089.08
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 864.021
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1154.08
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1021.2
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.471982,distance = 366.165
+Excess throughput over 250 RBs = 15575.4
+0.032,No. of RBs: 1
+1,0.15,distance = 798.034
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 652.841
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 652.458
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+0
+1,0.15,distance = 730.3
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1026.19
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 587.721
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 820.942
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1060.61
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1141.03
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 965.403
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 797.847
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.9558,distance = 284.549
+Excess throughput over 250 RBs = 31541.4
+0.032,No. of RBs: 1
+1,0.15,distance = 910.494
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.181388,distance = 495.008
+Excess throughput over 250 RBs = 5985.8
+0.032,No. of RBs: 2
+1,0.207232,distance = 475.382
+Excess throughput over 250 RBs = 6838.66
+0.032,No. of RBs: 2
+1,0.196335,distance = 483.266
+Excess throughput over 250 RBs = 6479.06
+0.032,No. of RBs: 2
+1,0.15,distance = 771.622
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1264.51
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 717.084
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.189523,distance = 488.475
+Excess throughput over 250 RBs = 6254.25
+0.016,No. of RBs: 1
+1,0.15,distance = 539.203
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 994.027
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 984.733
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 994.172
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 801.049
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,5.5,distance = 60.7289
+Excess throughput over 250 RBs = 181500
+0,No. of RBs: 0
+1,0.15,distance = 837.386
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 905.15
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 971.447
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.827052,distance = 300.674
+Excess throughput over 250 RBs = 27292.7
+0,No. of RBs: 0
+1,0.15,distance = 1127.74
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 576.108
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 861.235
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 906.448
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 992.814
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 548.001
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 923.465
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 659.207
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 997.87
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 856.342
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.193816,distance = 485.166
+Excess throughput over 250 RBs = 6395.92
+0,No. of RBs: 0
+1,0.15,distance = 1050.14
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 665.262
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 589.042
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1304.9
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 732.526
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 835.275
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 823.729
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 823.984
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1130.36
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 766.38
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 866.419
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.351288,distance = 403.22
+Excess throughput over 250 RBs = 11592.5
+0.032,No. of RBs: 1
+1,0.15,distance = 900.029
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1032.03
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 823.477
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 973.557
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 601.96
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 591.143
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.937707,distance = 286.665
+Excess throughput over 250 RBs = 30944.3
+0.032,No. of RBs: 1
+1,0.15,distance = 765.164
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 620.646
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 864.001
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 837.603
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 921.51
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.173813,distance = 501.427
+Excess throughput over 250 RBs = 5735.82
+0,No. of RBs: 0
+1,0.15,distance = 566.188
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1157.41
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 934.634
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 829.673
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 581.111
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 910.157
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.86887,distance = 295.149
+Excess throughput over 250 RBs = 28672.7
+0,No. of RBs: 0
+1,0.15,distance = 892.657
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 762.63
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1189.45
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,1.67286,distance = 223.732
+Excess throughput over 250 RBs = 55204.2
+0.032,No. of RBs: 1
+1,0.15,distance = 651.733
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.329309,distance = 411.618
+Excess throughput over 250 RBs = 10867.2
+0,No. of RBs: 0
+1,0.15,distance = 861.68
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 904.465
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.171502,distance = 503.454
+Excess throughput over 250 RBs = 5659.58
+0.032,No. of RBs: 2
+1,0.15,distance = 530.212
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 823.409
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.250087,distance = 448.706
+Excess throughput over 250 RBs = 8252.87
+0.032,No. of RBs: 1
+1,0.15,distance = 815.079
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 954.242
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1068.56
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 899.605
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,1.85949,distance = 212.361
+Excess throughput over 250 RBs = 61363.3
+0,No. of RBs: 0
+1,0.421436,distance = 380.132
+Excess throughput over 250 RBs = 13907.4
+0,No. of RBs: 0
+1,0.15,distance = 869.009
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1367.67
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 805.233
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 631.216
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 569.088
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 855.405
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 842.929
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 780.08
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1082.4
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,1.23594,distance = 256.4
+Excess throughput over 250 RBs = 40786
+0,No. of RBs: 0
+1,0.15,distance = 673.261
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.655037,distance = 327.246
+Excess throughput over 250 RBs = 21616.2
+0.032,No. of RBs: 1
+1,0.15,distance = 893.185
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 938.785
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,1.40353,distance = 242.638
+Excess throughput over 250 RBs = 46316.4
+0.016,No. of RBs: 1
+1,0.15,distance = 726.808
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.504447,distance = 358.095
+Excess throughput over 250 RBs = 16646.7
+0.032,No. of RBs: 1
+1,0.15,distance = 756.943
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1082.3
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 941.488
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 752.577
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 742.378
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 614.398
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.681997,distance = 322.591
+Excess throughput over 250 RBs = 22505.9
+0,No. of RBs: 0
+1,0.15,distance = 838.208
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1159.12
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 867.148
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.252283,distance = 447.493
+Excess throughput over 250 RBs = 8325.33
+0,No. of RBs: 0
+1,0.696696,distance = 320.141
+Excess throughput over 250 RBs = 22991
+0.016,No. of RBs: 1
+1,0.15,distance = 873.716
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 692.847
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 949.148
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1103.68
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 953.101
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1118.36
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 865.014
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1161.85
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 562.885
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 786.553
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.225077,distance = 463.517
+Excess throughput over 250 RBs = 7427.53
+0.016,No. of RBs: 1
+1,0.514427,distance = 355.736
+Excess throughput over 250 RBs = 16976.1
+0.016,No. of RBs: 1
+1,0.15,distance = 601.185
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 848.849
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 567.665
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1087.18
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 698.851
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 589.448
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 745.033
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,5.5,distance = 71.4003
+Excess throughput over 250 RBs = 181500
+0.016,No. of RBs: 1
+1,2.67613,distance = 173.092
+Excess throughput over 250 RBs = 88312.4
+0,No. of RBs: 0
+1,0.15,distance = 683.1
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 672.027
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 776.338
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1112.7
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 847.387
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.577292,distance = 342.007
+Excess throughput over 250 RBs = 19050.6
+0.016,No. of RBs: 1
+1,0.15,distance = 1016
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 735.153
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.226835,distance = 462.411
+Excess throughput over 250 RBs = 7485.54
+0,No. of RBs: 0
+1,0.15,distance = 838.32
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.347265,distance = 404.709
+Excess throughput over 250 RBs = 11459.8
+0.032,No. of RBs: 1
+1,0.15,distance = 985.999
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 705.284
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.388228,distance = 390.438
+Excess throughput over 250 RBs = 12811.5
+0.032,No. of RBs: 1
+1,0.15,distance = 1185.8
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 777.762
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 788.206
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,4.04758,distance = 128.016
+Excess throughput over 250 RBs = 133570
+0,No. of RBs: 0
+1,1.74876,distance = 218.961
+Excess throughput over 250 RBs = 57709
+0.032,No. of RBs: 1
+1,0.15,distance = 623.796
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+0
+1,0.15,distance = 982.626
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.245054,distance = 451.536
+Excess throughput over 250 RBs = 8086.77
+0,No. of RBs: 0
+1,0.15,distance = 793.061
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1009.21
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 790.568
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 658.77
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.300569,distance = 423.681
+Excess throughput over 250 RBs = 9918.78
+0,No. of RBs: 0
+1,0.15,distance = 1298.81
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 1348.2
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 928.61
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1035.59
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 662.372
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 772.62
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 653.306
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 982.174
+Excess throughput over 250 RBs = 4950
+0.016,No. of RBs: 1
+1,0.15,distance = 704.833
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.416755,distance = 381.525
+Excess throughput over 250 RBs = 13752.9
+0,No. of RBs: 0
+1,0.350164,distance = 403.633
+Excess throughput over 250 RBs = 11555.4
+0,No. of RBs: 0
+1,5.5,distance = 80.4487
+Excess throughput over 250 RBs = 181500
+0,No. of RBs: 0
+1,0.922791,distance = 288.444
+Excess throughput over 250 RBs = 30452.1
+0,No. of RBs: 0
+1,0.15,distance = 811.47
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 932.434
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1283.61
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1019.07
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1016.31
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 817.267
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 762.424
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+1,0.15,distance = 1214.94
+Excess throughput over 250 RBs = 4950
+0.032,No. of RBs: 2
+1,0.15,distance = 1092.17
+Excess throughput over 250 RBs = 4950
+0,No. of RBs: 0
+Avg throughput over 250 = 11903.2
+
+ Total number of UEs leaning more towards macro in spite of macro blanking6 and total RBs = 214
+
+ Normalized RBs = 335 sub-frames, I can blank = 3

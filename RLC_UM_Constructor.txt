@@ -1,0 +1,1 @@
+Tx Buffer Size = 0 Counter = 504

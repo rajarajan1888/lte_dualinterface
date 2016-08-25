@@ -1,0 +1,1590 @@
+RSRP[1][1]=6.35819e-19 and in dB, it is -181.967
+With cell bias 0.413927, the RSRP is -181.553RSRP[1][2]=3.72749e-20 and in dB, it is -194.286
+
+RSRP[1][3]=0 and in dB, it is -inf
+
+RSRP[2][1]=2.90517e-20 and in dB, it is -195.368
+With cell bias 0.413927, the RSRP is -194.954RSRP[2][2]=9.65065e-21 and in dB, it is -200.154
+
+RSRP[2][3]=0 and in dB, it is -inf
+
+RSRP[3][1]=3.82063e-20 and in dB, it is -194.179
+With cell bias 0.413927, the RSRP is -193.765RSRP[3][2]=1.02837e-20 and in dB, it is -199.878
+
+RSRP[3][3]=0 and in dB, it is -inf
+
+RSRP[4][1]=1.03713e-20 and in dB, it is -199.842
+With cell bias 0.413927, the RSRP is -199.428RSRP[4][2]=7.9636e-21 and in dB, it is -200.989
+
+RSRP[4][3]=0 and in dB, it is -inf
+
+RSRP[5][1]=4.36516e-19 and in dB, it is -183.6
+With cell bias 0.413927, the RSRP is -183.186RSRP[5][2]=3.3853e-20 and in dB, it is -194.704
+
+RSRP[5][3]=0 and in dB, it is -inf
+
+RSRP[6][1]=5.88855e-20 and in dB, it is -192.3
+With cell bias 0.413927, the RSRP is -191.886RSRP[6][2]=3.11475e-20 and in dB, it is -195.066
+
+RSRP[6][3]=0 and in dB, it is -inf
+
+RSRP[7][1]=1.29113e-20 and in dB, it is -198.89
+With cell bias 0.413927, the RSRP is -198.476RSRP[7][2]=7.82756e-21 and in dB, it is -201.064
+
+RSRP[7][3]=0 and in dB, it is -inf
+
+RSRP[8][1]=5.62553e-20 and in dB, it is -192.498
+With cell bias 0.413927, the RSRP is -192.084RSRP[8][2]=1.84314e-20 and in dB, it is -197.344
+
+RSRP[8][3]=0 and in dB, it is -inf
+
+RSRP[9][1]=7.19881e-21 and in dB, it is -201.427
+With cell bias 0.413927, the RSRP is -201.013RSRP[9][2]=6.62101e-21 and in dB, it is -201.791
+
+RSRP[9][3]=0 and in dB, it is -inf
+
+RSRP[10][1]=9.4223e-21 and in dB, it is -200.258
+With cell bias 0.413927, the RSRP is -199.845RSRP[10][2]=9.11736e-21 and in dB, it is -200.401
+
+RSRP[10][3]=0 and in dB, it is -inf
+
+RSRP[11][1]=3.38049e-20 and in dB, it is -194.71
+With cell bias 0.413927, the RSRP is -194.296RSRP[11][2]=1.18021e-20 and in dB, it is -199.28
+
+RSRP[11][3]=0 and in dB, it is -inf
+
+RSRP[12][1]=2.88415e-18 and in dB, it is -175.4
+With cell bias 0.413927, the RSRP is -174.986RSRP[12][2]=1.81598e-20 and in dB, it is -197.409
+
+RSRP[12][3]=0 and in dB, it is -inf
+
+RSRP[13][1]=6.69895e-19 and in dB, it is -181.74
+With cell bias 0.413927, the RSRP is -181.326RSRP[13][2]=1.858e-20 and in dB, it is -197.31
+
+RSRP[13][3]=0 and in dB, it is -inf
+
+RSRP[14][1]=6.15603e-20 and in dB, it is -192.107
+With cell bias 0.413927, the RSRP is -191.693RSRP[14][2]=4.49414e-20 and in dB, it is -193.474
+
+RSRP[14][3]=0 and in dB, it is -inf
+
+RSRP[15][1]=1.74178e-19 and in dB, it is -187.59
+With cell bias 0.413927, the RSRP is -187.176RSRP[15][2]=4.22813e-20 and in dB, it is -193.739
+
+RSRP[15][3]=0 and in dB, it is -inf
+
+RSRP[16][1]=1.90147e-20 and in dB, it is -197.209
+With cell bias 0.413927, the RSRP is -196.795RSRP[16][2]=1.02501e-20 and in dB, it is -199.893
+
+RSRP[16][3]=0 and in dB, it is -inf
+
+RSRP[17][1]=7.4386e-21 and in dB, it is -201.285
+With cell bias 0.413927, the RSRP is -200.871RSRP[17][2]=7.60643e-21 and in dB, it is -201.188
+
+RSRP[17][3]=0 and in dB, it is -inf
+
+RSRP[18][1]=5.73311e-20 and in dB, it is -192.416
+With cell bias 0.413927, the RSRP is -192.002RSRP[18][2]=4.58226e-20 and in dB, it is -193.389
+
+RSRP[18][3]=0 and in dB, it is -inf
+
+RSRP[19][1]=1.07143e-20 and in dB, it is -199.7
+With cell bias 0.413927, the RSRP is -199.286RSRP[19][2]=1.03314e-20 and in dB, it is -199.858
+
+RSRP[19][3]=0 and in dB, it is -inf
+
+RSRP[20][1]=1.04047e-20 and in dB, it is -199.828
+With cell bias 0.413927, the RSRP is -199.414RSRP[20][2]=7.69717e-21 and in dB, it is -201.137
+
+RSRP[20][3]=0 and in dB, it is -inf
+
+RSRP[21][1]=7.13661e-21 and in dB, it is -201.465
+With cell bias 0.413927, the RSRP is -201.051RSRP[21][2]=6.98743e-21 and in dB, it is -201.557
+
+RSRP[21][3]=0 and in dB, it is -inf
+
+RSRP[22][1]=2.43878e-17 and in dB, it is -166.128
+With cell bias 0.413927, the RSRP is -165.714RSRP[22][2]=2.41521e-20 and in dB, it is -196.17
+
+RSRP[22][3]=0 and in dB, it is -inf
+
+RSRP[23][1]=4.06627e-19 and in dB, it is -183.908
+With cell bias 0.413927, the RSRP is -183.494RSRP[23][2]=1.51521e-20 and in dB, it is -198.195
+
+RSRP[23][3]=0 and in dB, it is -inf
+
+RSRP[24][1]=5.9113e-20 and in dB, it is -192.283
+With cell bias 0.413927, the RSRP is -191.869RSRP[24][2]=2.45997e-20 and in dB, it is -196.091
+
+RSRP[24][3]=0 and in dB, it is -inf
+
+RSRP[25][1]=8.08506e-21 and in dB, it is -200.923
+With cell bias 0.413927, the RSRP is -200.509RSRP[25][2]=7.1112e-21 and in dB, it is -201.481
+
+RSRP[25][3]=0 and in dB, it is -inf
+
+RSRP[26][1]=4.09816e-20 and in dB, it is -193.874
+With cell bias 0.413927, the RSRP is -193.46RSRP[26][2]=1.05853e-20 and in dB, it is -199.753
+
+RSRP[26][3]=0 and in dB, it is -inf
+
+RSRP[27][1]=1.0733e-19 and in dB, it is -189.693
+With cell bias 0.413927, the RSRP is -189.279RSRP[27][2]=2.11998e-20 and in dB, it is -196.737
+
+RSRP[27][3]=0 and in dB, it is -inf
+
+RSRP[28][1]=3.26828e-18 and in dB, it is -174.857
+With cell bias 0.413927, the RSRP is -174.443RSRP[28][2]=2.04823e-20 and in dB, it is -196.886
+
+RSRP[28][3]=0 and in dB, it is -inf
+
+RSRP[29][1]=9.77424e-21 and in dB, it is -200.099
+With cell bias 0.413927, the RSRP is -199.685RSRP[29][2]=7.31581e-21 and in dB, it is -201.357
+
+RSRP[29][3]=0 and in dB, it is -inf
+
+RSRP[30][1]=4.24927e-20 and in dB, it is -193.717
+With cell bias 0.413927, the RSRP is -193.303RSRP[30][2]=1.0409e-20 and in dB, it is -199.826
+
+RSRP[30][3]=0 and in dB, it is -inf
+
+RSRP[31][1]=3.95031e-20 and in dB, it is -194.034
+With cell bias 0.413927, the RSRP is -193.62RSRP[31][2]=3.57867e-20 and in dB, it is -194.463
+
+RSRP[31][3]=0 and in dB, it is -inf
+
+RSRP[32][1]=8.6134e-21 and in dB, it is -200.648
+With cell bias 0.413927, the RSRP is -200.234RSRP[32][2]=6.98518e-21 and in dB, it is -201.558
+
+RSRP[32][3]=0 and in dB, it is -inf
+
+RSRP[33][1]=1.30215e-18 and in dB, it is -178.853
+With cell bias 0.413927, the RSRP is -178.439RSRP[33][2]=2.06792e-20 and in dB, it is -196.845
+
+RSRP[33][3]=0 and in dB, it is -inf
+
+RSRP[34][1]=6.80204e-20 and in dB, it is -191.674
+With cell bias 0.413927, the RSRP is -191.26RSRP[34][2]=4.49193e-20 and in dB, it is -193.476
+
+RSRP[34][3]=0 and in dB, it is -inf
+
+RSRP[35][1]=4.64793e-19 and in dB, it is -183.327
+With cell bias 0.413927, the RSRP is -182.913RSRP[35][2]=3.295e-20 and in dB, it is -194.821
+
+RSRP[35][3]=0 and in dB, it is -inf
+
+RSRP[36][1]=7.01559e-21 and in dB, it is -201.539
+With cell bias 0.413927, the RSRP is -201.125RSRP[36][2]=6.91516e-21 and in dB, it is -201.602
+
+RSRP[36][3]=0 and in dB, it is -inf
+
+RSRP[37][1]=2.61807e-20 and in dB, it is -195.82
+With cell bias 0.413927, the RSRP is -195.406RSRP[37][2]=9.80178e-21 and in dB, it is -200.087
+
+RSRP[37][3]=0 and in dB, it is -inf
+
+RSRP[38][1]=1.00182e-19 and in dB, it is -189.992
+With cell bias 0.413927, the RSRP is -189.578RSRP[38][2]=1.59308e-20 and in dB, it is -197.978
+
+RSRP[38][3]=0 and in dB, it is -inf
+
+RSRP[39][1]=6.12183e-20 and in dB, it is -192.131
+With cell bias 0.413927, the RSRP is -191.717RSRP[39][2]=2.71998e-20 and in dB, it is -195.654
+
+RSRP[39][3]=0 and in dB, it is -inf
+
+RSRP[40][1]=7.10984e-20 and in dB, it is -191.481
+With cell bias 0.413927, the RSRP is -191.067RSRP[40][2]=1.55094e-20 and in dB, it is -198.094
+
+RSRP[40][3]=0 and in dB, it is -inf
+
+RSRP[41][1]=9.4134e-21 and in dB, it is -200.263
+With cell bias 0.413927, the RSRP is -199.849RSRP[41][2]=7.89735e-21 and in dB, it is -201.025
+
+RSRP[41][3]=0 and in dB, it is -inf
+
+RSRP[42][1]=1.81242e-20 and in dB, it is -197.417
+With cell bias 0.413927, the RSRP is -197.003RSRP[42][2]=9.25555e-21 and in dB, it is -200.336
+
+RSRP[42][3]=0 and in dB, it is -inf
+
+RSRP[43][1]=5.95369e-20 and in dB, it is -192.252
+With cell bias 0.413927, the RSRP is -191.838RSRP[43][2]=6.12106e-20 and in dB, it is -192.132
+
+RSRP[43][3]=0 and in dB, it is -inf
+
+RSRP[44][1]=5.86931e-19 and in dB, it is -182.314
+With cell bias 0.413927, the RSRP is -181.9RSRP[44][2]=3.45603e-20 and in dB, it is -194.614
+
+RSRP[44][3]=0 and in dB, it is -inf
+
+RSRP[45][1]=4.24602e-20 and in dB, it is -193.72
+With cell bias 0.413927, the RSRP is -193.306RSRP[45][2]=2.18383e-20 and in dB, it is -196.608
+
+RSRP[45][3]=0 and in dB, it is -inf
+
+RSRP[46][1]=4.14294e-20 and in dB, it is -193.827
+With cell bias 0.413927, the RSRP is -193.413RSRP[46][2]=1.04739e-20 and in dB, it is -199.799
+
+RSRP[46][3]=0 and in dB, it is -inf
+
+RSRP[47][1]=1.77271e-19 and in dB, it is -187.514
+With cell bias 0.413927, the RSRP is -187.1RSRP[47][2]=4.71878e-20 and in dB, it is -193.262
+
+RSRP[47][3]=0 and in dB, it is -inf
+
+RSRP[48][1]=3.15978e-20 and in dB, it is -195.003
+With cell bias 0.413927, the RSRP is -194.59RSRP[48][2]=9.79533e-21 and in dB, it is -200.09
+
+RSRP[48][3]=0 and in dB, it is -inf
+
+RSRP[49][1]=7.97284e-21 and in dB, it is -200.984
+With cell bias 0.413927, the RSRP is -200.57RSRP[49][2]=6.95783e-21 and in dB, it is -201.575
+
+RSRP[49][3]=0 and in dB, it is -inf
+
+RSRP[50][1]=7.87963e-21 and in dB, it is -201.035
+With cell bias 0.413927, the RSRP is -200.621RSRP[50][2]=8.06642e-21 and in dB, it is -200.933
+
+RSRP[50][3]=0 and in dB, it is -inf
+
+RSRP[51][1]=9.14059e-21 and in dB, it is -200.39
+With cell bias 0.413927, the RSRP is -199.976RSRP[51][2]=7.18838e-21 and in dB, it is -201.434
+
+RSRP[51][3]=0 and in dB, it is -inf
+
+RSRP[52][1]=1.29795e-19 and in dB, it is -188.867
+With cell bias 0.413927, the RSRP is -188.454RSRP[52][2]=3.10071e-20 and in dB, it is -195.085
+
+RSRP[52][3]=0 and in dB, it is -inf
+
+RSRP[53][1]=8.2244e-20 and in dB, it is -190.849
+With cell bias 0.413927, the RSRP is -190.435RSRP[53][2]=2.81994e-20 and in dB, it is -195.498
+
+RSRP[53][3]=0 and in dB, it is -inf
+
+RSRP[54][1]=7.89121e-21 and in dB, it is -201.029
+With cell bias 0.413927, the RSRP is -200.615RSRP[54][2]=6.83144e-21 and in dB, it is -201.655
+
+RSRP[54][3]=0 and in dB, it is -inf
+
+RSRP[55][1]=1.71326e-20 and in dB, it is -197.662
+With cell bias 0.413927, the RSRP is -197.248RSRP[55][2]=1.23651e-20 and in dB, it is -199.078
+
+RSRP[55][3]=0 and in dB, it is -inf
+
+RSRP[56][1]=2.44877e-20 and in dB, it is -196.111
+With cell bias 0.413927, the RSRP is -195.697RSRP[56][2]=9.86898e-21 and in dB, it is -200.057
+
+RSRP[56][3]=0 and in dB, it is -inf
+
+RSRP[57][1]=4.80717e-20 and in dB, it is -193.181
+With cell bias 0.413927, the RSRP is -192.767RSRP[57][2]=1.36435e-20 and in dB, it is -198.651
+
+RSRP[57][3]=0 and in dB, it is -inf
+
+RSRP[58][1]=3.24473e-20 and in dB, it is -194.888
+With cell bias 0.413927, the RSRP is -194.474RSRP[58][2]=1.60335e-20 and in dB, it is -197.95
+
+RSRP[58][3]=0 and in dB, it is -inf
+
+RSRP[59][1]=2.13463e-19 and in dB, it is -186.707
+With cell bias 0.413927, the RSRP is -186.293RSRP[59][2]=4.3344e-20 and in dB, it is -193.631
+
+RSRP[59][3]=0 and in dB, it is -inf
+
+RSRP[60][1]=9.78605e-21 and in dB, it is -200.094
+With cell bias 0.413927, the RSRP is -199.68RSRP[60][2]=7.33855e-21 and in dB, it is -201.344
+
+RSRP[60][3]=0 and in dB, it is -inf
+
+RSRP[61][1]=1.2681e-20 and in dB, it is -198.968
+With cell bias 0.413927, the RSRP is -198.555RSRP[61][2]=9.49188e-21 and in dB, it is -200.226
+
+RSRP[61][3]=0 and in dB, it is -inf
+
+RSRP[62][1]=1.02599e-18 and in dB, it is -179.889
+With cell bias 0.413927, the RSRP is -179.475RSRP[62][2]=2.24163e-20 and in dB, it is -196.494
+
+RSRP[62][3]=0 and in dB, it is -inf
+
+RSRP[63][1]=2.39517e-20 and in dB, it is -196.207
+With cell bias 0.413927, the RSRP is -195.793RSRP[63][2]=1.24215e-20 and in dB, it is -199.058
+
+RSRP[63][3]=0 and in dB, it is -inf
+
+RSRP[64][1]=1.36122e-19 and in dB, it is -188.661
+With cell bias 0.413927, the RSRP is -188.247RSRP[64][2]=4.2829e-20 and in dB, it is -193.683
+
+RSRP[64][3]=0 and in dB, it is -inf
+
+RSRP[65][1]=3.91653e-20 and in dB, it is -194.071
+With cell bias 0.413927, the RSRP is -193.657RSRP[65][2]=1.13482e-20 and in dB, it is -199.451
+
+RSRP[65][3]=0 and in dB, it is -inf
+
+RSRP[66][1]=3.58389e-20 and in dB, it is -194.456
+With cell bias 0.413927, the RSRP is -194.043RSRP[66][2]=1.40879e-20 and in dB, it is -198.512
+
+RSRP[66][3]=0 and in dB, it is -inf
+
+RSRP[67][1]=1.65937e-20 and in dB, it is -197.801
+With cell bias 0.413927, the RSRP is -197.387RSRP[67][2]=8.68891e-21 and in dB, it is -200.61
+
+RSRP[67][3]=0 and in dB, it is -inf
+
+RSRP[68][1]=1.69039e-20 and in dB, it is -197.72
+With cell bias 0.413927, the RSRP is -197.306RSRP[68][2]=8.41905e-21 and in dB, it is -200.747
+
+RSRP[68][3]=0 and in dB, it is -inf
+
+RSRP[69][1]=1.15565e-18 and in dB, it is -179.372
+With cell bias 0.413927, the RSRP is -178.958RSRP[69][2]=3.05793e-20 and in dB, it is -195.146
+
+RSRP[69][3]=0 and in dB, it is -inf
+
+RSRP[70][1]=1.03105e-19 and in dB, it is -189.867
+With cell bias 0.413927, the RSRP is -189.453RSRP[70][2]=5.09254e-20 and in dB, it is -192.931
+
+RSRP[70][3]=0 and in dB, it is -inf
+
+RSRP[71][1]=6.21514e-20 and in dB, it is -192.065
+With cell bias 0.413927, the RSRP is -191.652RSRP[71][2]=2.35335e-20 and in dB, it is -196.283
+
+RSRP[71][3]=0 and in dB, it is -inf
+
+RSRP[72][1]=8.63012e-21 and in dB, it is -200.64
+With cell bias 0.413927, the RSRP is -200.226RSRP[72][2]=6.98636e-21 and in dB, it is -201.557
+
+RSRP[72][3]=0 and in dB, it is -inf
+
+RSRP[73][1]=4.18796e-18 and in dB, it is -173.78
+With cell bias 0.413927, the RSRP is -173.366RSRP[73][2]=2.50361e-20 and in dB, it is -196.014
+
+RSRP[73][3]=0 and in dB, it is -inf
+
+RSRP[74][1]=7.04995e-20 and in dB, it is -191.518
+With cell bias 0.413927, the RSRP is -191.104RSRP[74][2]=1.57202e-20 and in dB, it is -198.035
+
+RSRP[74][3]=0 and in dB, it is -inf
+
+RSRP[75][1]=1.49686e-20 and in dB, it is -198.248
+With cell bias 0.413927, the RSRP is -197.834RSRP[75][2]=1.0679e-20 and in dB, it is -199.715
+
+RSRP[75][3]=0 and in dB, it is -inf
+
+RSRP[76][1]=1.03606e-20 and in dB, it is -199.846
+With cell bias 0.413927, the RSRP is -199.432RSRP[76][2]=9.82776e-21 and in dB, it is -200.075
+
+RSRP[76][3]=0 and in dB, it is -inf
+
+RSRP[77][1]=5.90981e-20 and in dB, it is -192.284
+With cell bias 0.413927, the RSRP is -191.87RSRP[77][2]=5.65515e-20 and in dB, it is -192.476
+
+RSRP[77][3]=0 and in dB, it is -inf
+
+RSRP[78][1]=6.99021e-20 and in dB, it is -191.555
+With cell bias 0.413927, the RSRP is -191.141RSRP[78][2]=5.85526e-20 and in dB, it is -192.325
+
+RSRP[78][3]=0 and in dB, it is -inf
+
+RSRP[79][1]=2.59034e-19 and in dB, it is -185.866
+With cell bias 0.413927, the RSRP is -185.452RSRP[79][2]=1.45071e-20 and in dB, it is -198.384
+
+RSRP[79][3]=0 and in dB, it is -inf
+
+RSRP[80][1]=1.14574e-18 and in dB, it is -179.409
+With cell bias 0.413927, the RSRP is -178.995RSRP[80][2]=2.43427e-20 and in dB, it is -196.136
+
+RSRP[80][3]=0 and in dB, it is -inf
+
+RSRP[81][1]=5.11439e-20 and in dB, it is -192.912
+With cell bias 0.413927, the RSRP is -192.498RSRP[81][2]=1.08875e-20 and in dB, it is -199.631
+
+RSRP[81][3]=0 and in dB, it is -inf
+
+RSRP[82][1]=6.4176e-20 and in dB, it is -191.926
+With cell bias 0.413927, the RSRP is -191.512RSRP[82][2]=1.28095e-20 and in dB, it is -198.925
+
+RSRP[82][3]=0 and in dB, it is -inf
+
+RSRP[83][1]=4.82984e-20 and in dB, it is -193.161
+With cell bias 0.413927, the RSRP is -192.747RSRP[83][2]=1.07808e-20 and in dB, it is -199.674
+
+RSRP[83][3]=0 and in dB, it is -inf
+
+RSRP[84][1]=4.12934e-20 and in dB, it is -193.841
+With cell bias 0.413927, the RSRP is -193.427RSRP[84][2]=2.24189e-20 and in dB, it is -196.494
+
+RSRP[84][3]=0 and in dB, it is -inf
+
+RSRP[85][1]=7.12045e-20 and in dB, it is -191.475
+With cell bias 0.413927, the RSRP is -191.061RSRP[85][2]=1.51601e-20 and in dB, it is -198.193
+
+RSRP[85][3]=0 and in dB, it is -inf
+
+RSRP[86][1]=3.2935e-20 and in dB, it is -194.823
+With cell bias 0.413927, the RSRP is -194.409RSRP[86][2]=2.49127e-20 and in dB, it is -196.036
+
+RSRP[86][3]=0 and in dB, it is -inf
+
+RSRP[87][1]=1.7304e-16 and in dB, it is -157.619
+With cell bias 0.413927, the RSRP is -157.205RSRP[87][2]=2.25782e-20 and in dB, it is -196.463
+
+RSRP[87][3]=0 and in dB, it is -inf
+
+RSRP[88][1]=2.31899e-19 and in dB, it is -186.347
+With cell bias 0.413927, the RSRP is -185.933RSRP[88][2]=3.85766e-20 and in dB, it is -194.137
+
+RSRP[88][3]=0 and in dB, it is -inf
+
+RSRP[89][1]=1.03055e-20 and in dB, it is -199.869
+With cell bias 0.413927, the RSRP is -199.455RSRP[89][2]=8.11189e-21 and in dB, it is -200.909
+
+RSRP[89][3]=0 and in dB, it is -inf
+
+RSRP[90][1]=4.6252e-20 and in dB, it is -193.349
+With cell bias 0.413927, the RSRP is -192.935RSRP[90][2]=1.06416e-20 and in dB, it is -199.73
+
+RSRP[90][3]=0 and in dB, it is -inf
+
+RSRP[91][1]=8.38692e-21 and in dB, it is -200.764
+With cell bias 0.413927, the RSRP is -200.35RSRP[91][2]=6.92846e-21 and in dB, it is -201.594
+
+RSRP[91][3]=0 and in dB, it is -inf
+
+RSRP[92][1]=1.18819e-20 and in dB, it is -199.251
+With cell bias 0.413927, the RSRP is -198.837RSRP[92][2]=8.10323e-21 and in dB, it is -200.913
+
+RSRP[92][3]=0 and in dB, it is -inf
+
+RSRP[93][1]=5.52732e-20 and in dB, it is -192.575
+With cell bias 0.413927, the RSRP is -192.161RSRP[93][2]=4.0073e-20 and in dB, it is -193.971
+
+RSRP[93][3]=0 and in dB, it is -inf
+
+RSRP[94][1]=3.64163e-20 and in dB, it is -194.387
+With cell bias 0.413927, the RSRP is -193.973RSRP[94][2]=1.88075e-20 and in dB, it is -197.257
+
+RSRP[94][3]=0 and in dB, it is -inf
+
+RSRP[95][1]=4.65744e-20 and in dB, it is -193.319
+With cell bias 0.413927, the RSRP is -192.905RSRP[95][2]=1.08046e-20 and in dB, it is -199.664
+
+RSRP[95][3]=0 and in dB, it is -inf
+
+RSRP[96][1]=7.85294e-19 and in dB, it is -181.05
+With cell bias 0.413927, the RSRP is -180.636RSRP[96][2]=1.91997e-20 and in dB, it is -197.167
+
+RSRP[96][3]=0 and in dB, it is -inf
+
+RSRP[97][1]=2.11911e-18 and in dB, it is -176.738
+With cell bias 0.413927, the RSRP is -176.325RSRP[97][2]=2.52285e-20 and in dB, it is -195.981
+
+RSRP[97][3]=0 and in dB, it is -inf
+
+RSRP[98][1]=9.83917e-21 and in dB, it is -200.07
+With cell bias 0.413927, the RSRP is -199.656RSRP[98][2]=7.25438e-21 and in dB, it is -201.394
+
+RSRP[98][3]=0 and in dB, it is -inf
+
+RSRP[99][1]=1.0238e-20 and in dB, it is -199.898
+With cell bias 0.413927, the RSRP is -199.484RSRP[99][2]=9.06449e-21 and in dB, it is -200.427
+
+RSRP[99][3]=0 and in dB, it is -inf
+
+RSRP[100][1]=5.08606e-20 and in dB, it is -192.936
+With cell bias 0.413927, the RSRP is -192.522RSRP[100][2]=3.02081e-20 and in dB, it is -195.199
+
+RSRP[100][3]=0 and in dB, it is -inf
+
+RSRP[101][1]=8.51083e-21 and in dB, it is -200.7
+With cell bias 0.413927, the RSRP is -200.286RSRP[101][2]=8.55825e-21 and in dB, it is -200.676
+
+RSRP[101][3]=0 and in dB, it is -inf
+
+RSRP[102][1]=6.17829e-20 and in dB, it is -192.091
+With cell bias 0.413927, the RSRP is -191.677RSRP[102][2]=5.12472e-20 and in dB, it is -192.903
+
+RSRP[102][3]=0 and in dB, it is -inf
+
+RSRP[103][1]=8.18129e-19 and in dB, it is -180.872
+With cell bias 0.413927, the RSRP is -180.458RSRP[103][2]=2.13789e-20 and in dB, it is -196.7
+
+RSRP[103][3]=0 and in dB, it is -inf
+
+RSRP[104][1]=7.49946e-20 and in dB, it is -191.25
+With cell bias 0.413927, the RSRP is -190.836RSRP[104][2]=1.51228e-20 and in dB, it is -198.204
+
+RSRP[104][3]=0 and in dB, it is -inf
+
+RSRP[105][1]=2.28003e-20 and in dB, it is -196.421
+With cell bias 0.413927, the RSRP is -196.007RSRP[105][2]=2.22166e-20 and in dB, it is -196.533
+
+RSRP[105][3]=0 and in dB, it is -inf
+
+RSRP[106][1]=4.68211e-19 and in dB, it is -183.296
+With cell bias 0.413927, the RSRP is -182.882RSRP[106][2]=1.83e-20 and in dB, it is -197.375
+
+RSRP[106][3]=0 and in dB, it is -inf
+
+RSRP[107][1]=6.17343e-21 and in dB, it is -202.095
+With cell bias 0.413927, the RSRP is -201.681RSRP[107][2]=6.76851e-21 and in dB, it is -201.695
+
+RSRP[107][3]=0 and in dB, it is -inf
+
+RSRP[108][1]=8.26241e-21 and in dB, it is -200.829
+With cell bias 0.413927, the RSRP is -200.415RSRP[108][2]=8.15571e-21 and in dB, it is -200.885
+
+RSRP[108][3]=0 and in dB, it is -inf
+
+RSRP[109][1]=8.86104e-19 and in dB, it is -180.525
+With cell bias 0.413927, the RSRP is -180.111RSRP[109][2]=2.27636e-20 and in dB, it is -196.428
+
+RSRP[109][3]=0 and in dB, it is -inf
+
+RSRP[110][1]=6.31778e-21 and in dB, it is -201.994
+With cell bias 0.413927, the RSRP is -201.58RSRP[110][2]=6.39361e-21 and in dB, it is -201.943
+
+RSRP[110][3]=0 and in dB, it is -inf
+
+RSRP[111][1]=3.56294e-20 and in dB, it is -194.482
+With cell bias 0.413927, the RSRP is -194.068RSRP[111][2]=1.11237e-20 and in dB, it is -199.538
+
+RSRP[111][3]=0 and in dB, it is -inf
+
+RSRP[112][1]=1.45741e-20 and in dB, it is -198.364
+With cell bias 0.413927, the RSRP is -197.95RSRP[112][2]=8.0972e-21 and in dB, it is -200.917
+
+RSRP[112][3]=0 and in dB, it is -inf
+
+RSRP[113][1]=1.24905e-19 and in dB, it is -189.034
+With cell bias 0.413927, the RSRP is -188.62RSRP[113][2]=1.27179e-20 and in dB, it is -198.956
+
+RSRP[113][3]=0 and in dB, it is -inf
+
+RSRP[114][1]=4.74434e-20 and in dB, it is -193.238
+With cell bias 0.413927, the RSRP is -192.824RSRP[114][2]=4.35665e-20 and in dB, it is -193.608
+
+RSRP[114][3]=0 and in dB, it is -inf
+
+RSRP[115][1]=8.43584e-20 and in dB, it is -190.739
+With cell bias 0.413927, the RSRP is -190.325RSRP[115][2]=1.7593e-20 and in dB, it is -197.547
+
+RSRP[115][3]=0 and in dB, it is -inf
+
+RSRP[116][1]=7.24761e-19 and in dB, it is -181.398
+With cell bias 0.413927, the RSRP is -180.984RSRP[116][2]=1.62133e-20 and in dB, it is -197.901
+
+RSRP[116][3]=0 and in dB, it is -inf
+
+RSRP[117][1]=1.44775e-20 and in dB, it is -198.393
+With cell bias 0.413927, the RSRP is -197.979RSRP[117][2]=1.3748e-20 and in dB, it is -198.618
+
+RSRP[117][3]=0 and in dB, it is -inf
+
+RSRP[118][1]=4.74385e-19 and in dB, it is -183.239
+With cell bias 0.413927, the RSRP is -182.825RSRP[118][2]=3.03479e-20 and in dB, it is -195.179
+
+RSRP[118][3]=0 and in dB, it is -inf
+
+RSRP[119][1]=2.6716e-20 and in dB, it is -195.732
+With cell bias 0.413927, the RSRP is -195.318RSRP[119][2]=1.7492e-20 and in dB, it is -197.572
+
+RSRP[119][3]=0 and in dB, it is -inf
+
+RSRP[120][1]=1.57943e-19 and in dB, it is -188.015
+With cell bias 0.413927, the RSRP is -187.601RSRP[120][2]=3.30467e-20 and in dB, it is -194.809
+
+RSRP[120][3]=0 and in dB, it is -inf
+
+RSRP[121][1]=8.52933e-20 and in dB, it is -190.691
+With cell bias 0.413927, the RSRP is -190.277RSRP[121][2]=1.28355e-20 and in dB, it is -198.916
+
+RSRP[121][3]=0 and in dB, it is -inf
+
+RSRP[122][1]=5.68008e-19 and in dB, it is -182.456
+With cell bias 0.413927, the RSRP is -182.043RSRP[122][2]=2.57656e-20 and in dB, it is -195.89
+
+RSRP[122][3]=0 and in dB, it is -inf
+
+RSRP[123][1]=3.44247e-20 and in dB, it is -194.631
+With cell bias 0.413927, the RSRP is -194.217RSRP[123][2]=1.15394e-20 and in dB, it is -199.378
+
+RSRP[123][3]=0 and in dB, it is -inf
+
+RSRP[124][1]=4.16089e-20 and in dB, it is -193.808
+With cell bias 0.413927, the RSRP is -193.394RSRP[124][2]=2.89712e-20 and in dB, it is -195.38
+
+RSRP[124][3]=0 and in dB, it is -inf
+
+RSRP[125][1]=1.64961e-20 and in dB, it is -197.826
+With cell bias 0.413927, the RSRP is -197.412RSRP[125][2]=1.4536e-20 and in dB, it is -198.376
+
+RSRP[125][3]=0 and in dB, it is -inf
+
+RSRP[126][1]=2.55107e-19 and in dB, it is -185.933
+With cell bias 0.413927, the RSRP is -185.519RSRP[126][2]=1.43754e-20 and in dB, it is -198.424
+
+RSRP[126][3]=0 and in dB, it is -inf
+
+RSRP[127][1]=2.60094e-19 and in dB, it is -185.849
+With cell bias 0.413927, the RSRP is -185.435RSRP[127][2]=4.2602e-20 and in dB, it is -193.706
+
+RSRP[127][3]=0 and in dB, it is -inf
+
+RSRP[128][1]=5.34951e-19 and in dB, it is -182.717
+With cell bias 0.413927, the RSRP is -182.303RSRP[128][2]=1.77931e-20 and in dB, it is -197.497
+
+RSRP[128][3]=0 and in dB, it is -inf
+
+RSRP[129][1]=2.38057e-20 and in dB, it is -196.233
+With cell bias 0.413927, the RSRP is -195.819RSRP[129][2]=1.78543e-20 and in dB, it is -197.483
+
+RSRP[129][3]=0 and in dB, it is -inf
+
+RSRP[130][1]=3.54214e-19 and in dB, it is -184.507
+With cell bias 0.413927, the RSRP is -184.093RSRP[130][2]=2.34883e-20 and in dB, it is -196.291
+
+RSRP[130][3]=0 and in dB, it is -inf
+
+RSRP[131][1]=1.95146e-20 and in dB, it is -197.096
+With cell bias 0.413927, the RSRP is -196.682RSRP[131][2]=9.629e-21 and in dB, it is -200.164
+
+RSRP[131][3]=0 and in dB, it is -inf
+
+RSRP[132][1]=6.84497e-21 and in dB, it is -201.646
+With cell bias 0.413927, the RSRP is -201.232RSRP[132][2]=6.51574e-21 and in dB, it is -201.86
+
+RSRP[132][3]=0 and in dB, it is -inf
+
+RSRP[133][1]=8.31169e-20 and in dB, it is -190.803
+With cell bias 0.413927, the RSRP is -190.389RSRP[133][2]=5.20202e-20 and in dB, it is -192.838
+
+RSRP[133][3]=0 and in dB, it is -inf
+
+RSRP[134][1]=1.21142e-20 and in dB, it is -199.167
+With cell bias 0.413927, the RSRP is -198.753RSRP[134][2]=7.69442e-21 and in dB, it is -201.138
+
+RSRP[134][3]=0 and in dB, it is -inf
+
+RSRP[135][1]=5.61133e-20 and in dB, it is -192.509
+With cell bias 0.413927, the RSRP is -192.095RSRP[135][2]=2.68811e-20 and in dB, it is -195.706
+
+RSRP[135][3]=0 and in dB, it is -inf
+
+RSRP[136][1]=4.66687e-19 and in dB, it is -183.31
+With cell bias 0.413927, the RSRP is -182.896RSRP[136][2]=2.83984e-20 and in dB, it is -195.467
+
+RSRP[136][3]=0 and in dB, it is -inf
+
+RSRP[137][1]=1.48157e-18 and in dB, it is -178.293
+With cell bias 0.413927, the RSRP is -177.879RSRP[137][2]=2.34225e-20 and in dB, it is -196.304
+
+RSRP[137][3]=0 and in dB, it is -inf
+
+RSRP[138][1]=9.02212e-20 and in dB, it is -190.447
+With cell bias 0.413927, the RSRP is -190.033RSRP[138][2]=1.25976e-20 and in dB, it is -198.997
+
+RSRP[138][3]=0 and in dB, it is -inf
+
+RSRP[139][1]=7.82105e-20 and in dB, it is -191.067
+With cell bias 0.413927, the RSRP is -190.653RSRP[139][2]=3.23781e-20 and in dB, it is -194.897
+
+RSRP[139][3]=0 and in dB, it is -inf
+
+RSRP[140][1]=3.31562e-20 and in dB, it is -194.794
+With cell bias 0.413927, the RSRP is -194.38RSRP[140][2]=9.92406e-21 and in dB, it is -200.033
+
+RSRP[140][3]=0 and in dB, it is -inf
+
+RSRP[141][1]=8.86104e-19 and in dB, it is -180.525
+With cell bias 0.413927, the RSRP is -180.111RSRP[141][2]=3.40624e-20 and in dB, it is -194.677
+
+RSRP[141][3]=0 and in dB, it is -inf
+
+RSRP[142][1]=5.57993e-20 and in dB, it is -192.534
+With cell bias 0.413927, the RSRP is -192.12RSRP[142][2]=1.15711e-20 and in dB, it is -199.366
+
+RSRP[142][3]=0 and in dB, it is -inf
+
+RSRP[143][1]=5.05448e-20 and in dB, it is -192.963
+With cell bias 0.413927, the RSRP is -192.549RSRP[143][2]=1.30549e-20 and in dB, it is -198.842
+
+RSRP[143][3]=0 and in dB, it is -inf
+
+RSRP[144][1]=1.07007e-20 and in dB, it is -199.706
+With cell bias 0.413927, the RSRP is -199.292RSRP[144][2]=9.68489e-21 and in dB, it is -200.139
+
+RSRP[144][3]=0 and in dB, it is -inf
+
+RSRP[145][1]=3.80492e-20 and in dB, it is -194.197
+With cell bias 0.413927, the RSRP is -193.783RSRP[145][2]=1.0787e-20 and in dB, it is -199.671
+
+RSRP[145][3]=0 and in dB, it is -inf
+
+RSRP[146][1]=1.06566e-20 and in dB, it is -199.724
+With cell bias 0.413927, the RSRP is -199.31RSRP[146][2]=1.08347e-20 and in dB, it is -199.652
+
+RSRP[146][3]=0 and in dB, it is -inf
+
+RSRP[147][1]=2.55906e-18 and in dB, it is -175.919
+With cell bias 0.413927, the RSRP is -175.505RSRP[147][2]=3.12467e-20 and in dB, it is -195.052
+
+RSRP[147][3]=0 and in dB, it is -inf
+
+RSRP[148][1]=5.29845e-20 and in dB, it is -192.759
+With cell bias 0.413927, the RSRP is -192.345RSRP[148][2]=3.31399e-20 and in dB, it is -194.796
+
+RSRP[148][3]=0 and in dB, it is -inf
+
+RSRP[149][1]=5.08271e-19 and in dB, it is -182.939
+With cell bias 0.413927, the RSRP is -182.525RSRP[149][2]=3.471e-20 and in dB, it is -194.595
+
+RSRP[149][3]=0 and in dB, it is -inf
+
+RSRP[150][1]=9.74293e-20 and in dB, it is -190.113
+With cell bias 0.413927, the RSRP is -189.699RSRP[150][2]=1.28904e-20 and in dB, it is -198.897
+
+RSRP[150][3]=0 and in dB, it is -inf
+
+RSRP[151][1]=6.07496e-21 and in dB, it is -202.165
+With cell bias 0.413927, the RSRP is -201.751RSRP[151][2]=6.49429e-21 and in dB, it is -201.875
+
+RSRP[151][3]=0 and in dB, it is -inf
+
+RSRP[152][1]=2.42137e-20 and in dB, it is -196.159
+With cell bias 0.413927, the RSRP is -195.745RSRP[152][2]=1.19421e-20 and in dB, it is -199.229
+
+RSRP[152][3]=0 and in dB, it is -inf
+
+RSRP[153][1]=8.20695e-20 and in dB, it is -190.858
+With cell bias 0.413927, the RSRP is -190.444RSRP[153][2]=1.60389e-20 and in dB, it is -197.948
+
+RSRP[153][3]=0 and in dB, it is -inf
+
+RSRP[154][1]=8.4977e-20 and in dB, it is -190.707
+With cell bias 0.413927, the RSRP is -190.293RSRP[154][2]=2.04343e-20 and in dB, it is -196.896
+
+RSRP[154][3]=0 and in dB, it is -inf
+
+RSRP[155][1]=1.38447e-20 and in dB, it is -198.587
+With cell bias 0.413927, the RSRP is -198.173RSRP[155][2]=8.35713e-21 and in dB, it is -200.779
+
+RSRP[155][3]=0 and in dB, it is -inf
+
+RSRP[156][1]=1.26589e-19 and in dB, it is -188.976
+With cell bias 0.413927, the RSRP is -188.562RSRP[156][2]=1.53959e-20 and in dB, it is -198.126
+
+RSRP[156][3]=0 and in dB, it is -inf
+
+RSRP[157][1]=3.06902e-20 and in dB, it is -195.13
+With cell bias 0.413927, the RSRP is -194.716RSRP[157][2]=1.92646e-20 and in dB, it is -197.152
+
+RSRP[157][3]=0 and in dB, it is -inf
+
+RSRP[158][1]=7.7011e-21 and in dB, it is -201.134
+With cell bias 0.413927, the RSRP is -200.721RSRP[158][2]=6.97641e-21 and in dB, it is -201.564
+
+RSRP[158][3]=0 and in dB, it is -inf
+
+RSRP[159][1]=7.47972e-21 and in dB, it is -201.261
+With cell bias 0.413927, the RSRP is -200.847RSRP[159][2]=6.8771e-21 and in dB, it is -201.626
+
+RSRP[159][3]=0 and in dB, it is -inf
+
+RSRP[160][1]=1.6339e-19 and in dB, it is -187.868
+With cell bias 0.413927, the RSRP is -187.454RSRP[160][2]=1.33483e-20 and in dB, it is -198.746
+
+RSRP[160][3]=0 and in dB, it is -inf
+
+RSRP[161][1]=1.3342e-17 and in dB, it is -168.748
+With cell bias 0.413927, the RSRP is -168.334RSRP[161][2]=2.15121e-20 and in dB, it is -196.673
+
+RSRP[161][3]=0 and in dB, it is -inf
+
+RSRP[162][1]=7.63638e-18 and in dB, it is -171.171
+With cell bias 0.413927, the RSRP is -170.757RSRP[162][2]=2.2334e-20 and in dB, it is -196.51
+
+RSRP[162][3]=0 and in dB, it is -inf
+
+RSRP[163][1]=5.97179e-20 and in dB, it is -192.239
+With cell bias 0.413927, the RSRP is -191.825RSRP[163][2]=1.11631e-20 and in dB, it is -199.522
+
+RSRP[163][3]=0 and in dB, it is -inf
+
+RSRP[164][1]=1.52696e-20 and in dB, it is -198.162
+With cell bias 0.413927, the RSRP is -197.748RSRP[164][2]=9.27144e-21 and in dB, it is -200.329
+
+RSRP[164][3]=0 and in dB, it is -inf
+
+RSRP[165][1]=2.8111e-20 and in dB, it is -195.511
+With cell bias 0.413927, the RSRP is -195.097RSRP[165][2]=1.28634e-20 and in dB, it is -198.906
+
+RSRP[165][3]=0 and in dB, it is -inf
+
+RSRP[166][1]=8.70486e-20 and in dB, it is -190.602
+With cell bias 0.413927, the RSRP is -190.188RSRP[166][2]=2.38047e-20 and in dB, it is -196.233
+
+RSRP[166][3]=0 and in dB, it is -inf
+
+RSRP[167][1]=1.36017e-20 and in dB, it is -198.664
+With cell bias 0.413927, the RSRP is -198.25RSRP[167][2]=8.05747e-21 and in dB, it is -200.938
+
+RSRP[167][3]=0 and in dB, it is -inf
+
+RSRP[168][1]=2.18736e-18 and in dB, it is -176.601
+With cell bias 0.413927, the RSRP is -176.187RSRP[168][2]=2.16989e-20 and in dB, it is -196.636
+
+RSRP[168][3]=0 and in dB, it is -inf
+
+RSRP[169][1]=4.6612e-20 and in dB, it is -193.315
+With cell bias 0.413927, the RSRP is -192.901RSRP[169][2]=1.09274e-20 and in dB, it is -199.615
+
+RSRP[169][3]=0 and in dB, it is -inf
+
+RSRP[170][1]=1.65189e-19 and in dB, it is -187.82
+With cell bias 0.413927, the RSRP is -187.406RSRP[170][2]=4.78551e-20 and in dB, it is -193.201
+
+RSRP[170][3]=0 and in dB, it is -inf
+
+RSRP[171][1]=1.47727e-20 and in dB, it is -198.305
+With cell bias 0.413927, the RSRP is -197.891RSRP[171][2]=1.54599e-20 and in dB, it is -198.108
+
+RSRP[171][3]=0 and in dB, it is -inf
+
+RSRP[172][1]=8.68425e-21 and in dB, it is -200.613
+With cell bias 0.413927, the RSRP is -200.199RSRP[172][2]=7.05186e-21 and in dB, it is -201.517
+
+RSRP[172][3]=0 and in dB, it is -inf
+
+RSRP[173][1]=7.24702e-20 and in dB, it is -191.398
+With cell bias 0.413927, the RSRP is -190.984RSRP[173][2]=1.6574e-20 and in dB, it is -197.806
+
+RSRP[173][3]=0 and in dB, it is -inf
+
+RSRP[174][1]=6.59094e-19 and in dB, it is -181.811
+With cell bias 0.413927, the RSRP is -181.397RSRP[174][2]=2.30677e-20 and in dB, it is -196.37
+
+RSRP[174][3]=0 and in dB, it is -inf
+
+RSRP[175][1]=1.08902e-19 and in dB, it is -189.63
+With cell bias 0.413927, the RSRP is -189.216RSRP[175][2]=1.27218e-20 and in dB, it is -198.955
+
+RSRP[175][3]=0 and in dB, it is -inf
+
+RSRP[176][1]=6.08137e-18 and in dB, it is -172.16
+With cell bias 0.413927, the RSRP is -171.746RSRP[176][2]=2.87982e-20 and in dB, it is -195.406
+
+RSRP[176][3]=0 and in dB, it is -inf
+
+RSRP[177][1]=2.18996e-20 and in dB, it is -196.596
+With cell bias 0.413927, the RSRP is -196.182RSRP[177][2]=2.04884e-20 and in dB, it is -196.885
+
+RSRP[177][3]=0 and in dB, it is -inf
+
+RSRP[178][1]=5.84527e-21 and in dB, it is -202.332
+With cell bias 0.413927, the RSRP is -201.918RSRP[178][2]=6.25713e-21 and in dB, it is -202.036
+
+RSRP[178][3]=0 and in dB, it is -inf
+
+RSRP[179][1]=1.00458e-20 and in dB, it is -199.98
+With cell bias 0.413927, the RSRP is -199.566RSRP[179][2]=8.25079e-21 and in dB, it is -200.835
+
+RSRP[179][3]=0 and in dB, it is -inf
+
+RSRP[180][1]=5.86398e-20 and in dB, it is -192.318
+With cell bias 0.413927, the RSRP is -191.904RSRP[180][2]=1.1113e-20 and in dB, it is -199.542
+
+RSRP[180][3]=0 and in dB, it is -inf
+
+RSRP[181][1]=8.04122e-21 and in dB, it is -200.947
+With cell bias 0.413927, the RSRP is -200.533RSRP[181][2]=8.651e-21 and in dB, it is -200.629
+
+RSRP[181][3]=0 and in dB, it is -inf
+
+RSRP[182][1]=1.40851e-19 and in dB, it is -188.512
+With cell bias 0.413927, the RSRP is -188.098RSRP[182][2]=4.4346e-20 and in dB, it is -193.531
+
+RSRP[182][3]=0 and in dB, it is -inf
+
+RSRP[183][1]=8.29901e-20 and in dB, it is -190.81
+With cell bias 0.413927, the RSRP is -190.396RSRP[183][2]=1.96673e-20 and in dB, it is -197.063
+
+RSRP[183][3]=0 and in dB, it is -inf
+
+RSRP[184][1]=7.93379e-19 and in dB, it is -181.005
+With cell bias 0.413927, the RSRP is -180.591RSRP[184][2]=3.57823e-20 and in dB, it is -194.463
+
+RSRP[184][3]=0 and in dB, it is -inf
+
+RSRP[185][1]=6.49218e-20 and in dB, it is -191.876
+With cell bias 0.413927, the RSRP is -191.462RSRP[185][2]=1.18693e-20 and in dB, it is -199.256
+
+RSRP[185][3]=0 and in dB, it is -inf
+
+RSRP[186][1]=2.18787e-20 and in dB, it is -196.6
+With cell bias 0.413927, the RSRP is -196.186RSRP[186][2]=2.07091e-20 and in dB, it is -196.838
+
+RSRP[186][3]=0 and in dB, it is -inf
+
+RSRP[187][1]=2.04259e-20 and in dB, it is -196.898
+With cell bias 0.413927, the RSRP is -196.484RSRP[187][2]=1.18975e-20 and in dB, it is -199.245
+
+RSRP[187][3]=0 and in dB, it is -inf
+
+RSRP[188][1]=6.53221e-21 and in dB, it is -201.849
+With cell bias 0.413927, the RSRP is -201.435RSRP[188][2]=7.15392e-21 and in dB, it is -201.455
+
+RSRP[188][3]=0 and in dB, it is -inf
+
+RSRP[189][1]=5.34387e-20 and in dB, it is -192.721
+With cell bias 0.413927, the RSRP is -192.308RSRP[189][2]=1.8289e-20 and in dB, it is -197.378
+
+RSRP[189][3]=0 and in dB, it is -inf
+
+RSRP[190][1]=2.36582e-19 and in dB, it is -186.26
+With cell bias 0.413927, the RSRP is -185.846RSRP[190][2]=2.05751e-20 and in dB, it is -196.867
+
+RSRP[190][3]=0 and in dB, it is -inf
+
+RSRP[191][1]=4.87863e-20 and in dB, it is -193.117
+With cell bias 0.413927, the RSRP is -192.703RSRP[191][2]=1.50392e-20 and in dB, it is -198.228
+
+RSRP[191][3]=0 and in dB, it is -inf
+
+RSRP[192][1]=1.90024e-19 and in dB, it is -187.212
+With cell bias 0.413927, the RSRP is -186.798RSRP[192][2]=1.55621e-20 and in dB, it is -198.079
+
+RSRP[192][3]=0 and in dB, it is -inf
+
+RSRP[193][1]=8.27671e-21 and in dB, it is -200.821
+With cell bias 0.413927, the RSRP is -200.407RSRP[193][2]=7.00161e-21 and in dB, it is -201.548
+
+RSRP[193][3]=0 and in dB, it is -inf
+
+RSRP[194][1]=1.19173e-20 and in dB, it is -199.238
+With cell bias 0.413927, the RSRP is -198.824RSRP[194][2]=7.75651e-21 and in dB, it is -201.103
+
+RSRP[194][3]=0 and in dB, it is -inf
+
+RSRP[195][1]=2.56439e-19 and in dB, it is -185.91
+With cell bias 0.413927, the RSRP is -185.496RSRP[195][2]=4.12255e-20 and in dB, it is -193.848
+
+RSRP[195][3]=0 and in dB, it is -inf
+
+RSRP[196][1]=8.36585e-21 and in dB, it is -200.775
+With cell bias 0.413927, the RSRP is -200.361RSRP[196][2]=8.11363e-21 and in dB, it is -200.908
+
+RSRP[196][3]=0 and in dB, it is -inf
+
+RSRP[197][1]=1.9703e-19 and in dB, it is -187.055
+With cell bias 0.413927, the RSRP is -186.641RSRP[197][2]=4.25022e-20 and in dB, it is -193.716
+
+RSRP[197][3]=0 and in dB, it is -inf
+
+RSRP[198][1]=1.87079e-20 and in dB, it is -197.28
+With cell bias 0.413927, the RSRP is -196.866RSRP[198][2]=9.46914e-21 and in dB, it is -200.237
+
+RSRP[198][3]=0 and in dB, it is -inf
+
+RSRP[199][1]=9.75863e-21 and in dB, it is -200.106
+With cell bias 0.413927, the RSRP is -199.692RSRP[199][2]=8.58448e-21 and in dB, it is -200.663
+
+RSRP[199][3]=0 and in dB, it is -inf
+
+RSRP[200][1]=1.73103e-19 and in dB, it is -187.617
+With cell bias 0.413927, the RSRP is -187.203RSRP[200][2]=2.66317e-20 and in dB, it is -195.746
+
+RSRP[200][3]=0 and in dB, it is -inf
+
+RSRP[201][1]=1.03454e-20 and in dB, it is -199.853
+With cell bias 0.413927, the RSRP is -199.439RSRP[201][2]=7.57621e-21 and in dB, it is -201.205
+
+RSRP[201][3]=0 and in dB, it is -inf
+
+RSRP[202][1]=6.8449e-20 and in dB, it is -191.646
+With cell bias 0.413927, the RSRP is -191.232RSRP[202][2]=1.68535e-20 and in dB, it is -197.733
+
+RSRP[202][3]=0 and in dB, it is -inf
+
+RSRP[203][1]=3.22846e-18 and in dB, it is -174.91
+With cell bias 0.413927, the RSRP is -174.496RSRP[203][2]=1.85422e-20 and in dB, it is -197.318
+
+RSRP[203][3]=0 and in dB, it is -inf
+
+RSRP[204][1]=3.01237e-20 and in dB, it is -195.211
+With cell bias 0.413927, the RSRP is -194.797RSRP[204][2]=1.11947e-20 and in dB, it is -199.51
+
+RSRP[204][3]=0 and in dB, it is -inf
+
+RSRP[205][1]=8.87837e-19 and in dB, it is -180.517
+With cell bias 0.413927, the RSRP is -180.103RSRP[205][2]=2.50064e-20 and in dB, it is -196.019
+
+RSRP[205][3]=0 and in dB, it is -inf
+
+RSRP[206][1]=3.96405e-20 and in dB, it is -194.019
+With cell bias 0.413927, the RSRP is -193.605RSRP[206][2]=1.36274e-20 and in dB, it is -198.656
+
+RSRP[206][3]=0 and in dB, it is -inf
+
+RSRP[207][1]=2.70702e-19 and in dB, it is -185.675
+With cell bias 0.413927, the RSRP is -185.261RSRP[207][2]=1.42655e-20 and in dB, it is -198.457
+
+RSRP[207][3]=0 and in dB, it is -inf
+
+RSRP[208][1]=3.53885e-19 and in dB, it is -184.511
+With cell bias 0.413927, the RSRP is -184.097RSRP[208][2]=1.63583e-20 and in dB, it is -197.863
+
+RSRP[208][3]=0 and in dB, it is -inf
+
+RSRP[209][1]=2.13484e-20 and in dB, it is -196.706
+With cell bias 0.413927, the RSRP is -196.292RSRP[209][2]=1.01072e-20 and in dB, it is -199.954
+
+RSRP[209][3]=0 and in dB, it is -inf
+
+RSRP[210][1]=4.03064e-20 and in dB, it is -193.946
+With cell bias 0.413927, the RSRP is -193.532RSRP[210][2]=3.21935e-20 and in dB, it is -194.922
+
+RSRP[210][3]=0 and in dB, it is -inf
+
+RSRP[211][1]=7.41734e-20 and in dB, it is -191.298
+With cell bias 0.413927, the RSRP is -190.884RSRP[211][2]=1.93657e-20 and in dB, it is -197.13
+
+RSRP[211][3]=0 and in dB, it is -inf
+
+RSRP[212][1]=2.04035e-20 and in dB, it is -196.903
+With cell bias 0.413927, the RSRP is -196.489RSRP[212][2]=1.29529e-20 and in dB, it is -198.876
+
+RSRP[212][3]=0 and in dB, it is -inf
+
+RSRP[213][1]=3.37832e-18 and in dB, it is -174.713
+With cell bias 0.413927, the RSRP is -174.299RSRP[213][2]=3.13109e-20 and in dB, it is -195.043
+
+RSRP[213][3]=0 and in dB, it is -inf
+
+RSRP[214][1]=7.91346e-19 and in dB, it is -181.016
+With cell bias 0.413927, the RSRP is -180.602RSRP[214][2]=1.79711e-20 and in dB, it is -197.454
+
+RSRP[214][3]=0 and in dB, it is -inf
+
+RSRP[215][1]=3.03996e-20 and in dB, it is -195.171
+With cell bias 0.413927, the RSRP is -194.757RSRP[215][2]=1.02424e-20 and in dB, it is -199.896
+
+RSRP[215][3]=0 and in dB, it is -inf
+
+RSRP[216][1]=1.16151e-19 and in dB, it is -189.35
+With cell bias 0.413927, the RSRP is -188.936RSRP[216][2]=2.75874e-20 and in dB, it is -195.593
+
+RSRP[216][3]=0 and in dB, it is -inf
+
+RSRP[217][1]=4.19485e-20 and in dB, it is -193.773
+With cell bias 0.413927, the RSRP is -193.359RSRP[217][2]=1.76837e-20 and in dB, it is -197.524
+
+RSRP[217][3]=0 and in dB, it is -inf
+
+RSRP[218][1]=1.49061e-20 and in dB, it is -198.266
+With cell bias 0.413927, the RSRP is -197.852RSRP[218][2]=1.05185e-20 and in dB, it is -199.78
+
+RSRP[218][3]=0 and in dB, it is -inf
+
+RSRP[219][1]=1.66868e-20 and in dB, it is -197.776
+With cell bias 0.413927, the RSRP is -197.362RSRP[219][2]=8.69219e-21 and in dB, it is -200.609
+
+RSRP[219][3]=0 and in dB, it is -inf
+
+RSRP[220][1]=2.61366e-16 and in dB, it is -155.828
+With cell bias 0.413927, the RSRP is -155.414RSRP[220][2]=2.20781e-20 and in dB, it is -196.56
+
+RSRP[220][3]=0 and in dB, it is -inf
+
+RSRP[221][1]=5.85665e-20 and in dB, it is -192.324
+With cell bias 0.413927, the RSRP is -191.91RSRP[221][2]=6.29919e-20 and in dB, it is -192.007
+
+RSRP[221][3]=0 and in dB, it is -inf
+
+RSRP[222][1]=1.30568e-20 and in dB, it is -198.842
+With cell bias 0.413927, the RSRP is -198.428RSRP[222][2]=8.68172e-21 and in dB, it is -200.614
+
+RSRP[222][3]=0 and in dB, it is -inf
+
+RSRP[223][1]=3.72644e-20 and in dB, it is -194.287
+With cell bias 0.413927, the RSRP is -193.873RSRP[223][2]=1.42431e-20 and in dB, it is -198.464
+
+RSRP[223][3]=0 and in dB, it is -inf
+
+RSRP[224][1]=1.10564e-19 and in dB, it is -189.564
+With cell bias 0.413927, the RSRP is -189.15RSRP[224][2]=4.64293e-20 and in dB, it is -193.332
+
+RSRP[224][3]=0 and in dB, it is -inf
+
+RSRP[225][1]=2.74837e-18 and in dB, it is -175.609
+With cell bias 0.413927, the RSRP is -175.195RSRP[225][2]=2.46746e-20 and in dB, it is -196.078
+
+RSRP[225][3]=0 and in dB, it is -inf
+
+RSRP[226][1]=1.12193e-20 and in dB, it is -199.5
+With cell bias 0.413927, the RSRP is -199.086RSRP[226][2]=7.64908e-21 and in dB, it is -201.164
+
+RSRP[226][3]=0 and in dB, it is -inf
+
+RSRP[227][1]=3.43019e-20 and in dB, it is -194.647
+With cell bias 0.413927, the RSRP is -194.233RSRP[227][2]=1.76336e-20 and in dB, it is -197.537
+
+RSRP[227][3]=0 and in dB, it is -inf
+
+RSRP[228][1]=2.65965e-20 and in dB, it is -195.752
+With cell bias 0.413927, the RSRP is -195.338RSRP[228][2]=1.13731e-20 and in dB, it is -199.441
+
+RSRP[228][3]=0 and in dB, it is -inf
+
+RSRP[229][1]=8.3444e-21 and in dB, it is -200.786
+With cell bias 0.413927, the RSRP is -200.372RSRP[229][2]=8.51371e-21 and in dB, it is -200.699
+
+RSRP[229][3]=0 and in dB, it is -inf
+
+RSRP[230][1]=4.37201e-19 and in dB, it is -183.593
+With cell bias 0.413927, the RSRP is -183.179RSRP[230][2]=2.14166e-20 and in dB, it is -196.692
+
+RSRP[230][3]=0 and in dB, it is -inf
+
+RSRP[231][1]=4.28766e-20 and in dB, it is -193.678
+With cell bias 0.413927, the RSRP is -193.264RSRP[231][2]=1.18972e-20 and in dB, it is -199.246
+
+RSRP[231][3]=0 and in dB, it is -inf
+
+RSRP[232][1]=1.11831e-20 and in dB, it is -199.514
+With cell bias 0.413927, the RSRP is -199.1RSRP[232][2]=7.64713e-21 and in dB, it is -201.165
+
+RSRP[232][3]=0 and in dB, it is -inf
+
+RSRP[233][1]=3.11062e-20 and in dB, it is -195.072
+With cell bias 0.413927, the RSRP is -194.658RSRP[233][2]=1.51292e-20 and in dB, it is -198.202
+
+RSRP[233][3]=0 and in dB, it is -inf
+
+RSRP[234][1]=1.37137e-19 and in dB, it is -188.628
+With cell bias 0.413927, the RSRP is -188.215RSRP[234][2]=4.99764e-20 and in dB, it is -193.012
+
+RSRP[234][3]=0 and in dB, it is -inf
+
+RSRP[235][1]=1.01177e-18 and in dB, it is -179.949
+With cell bias 0.413927, the RSRP is -179.535RSRP[235][2]=1.9055e-20 and in dB, it is -197.2
+
+RSRP[235][3]=0 and in dB, it is -inf
+
+RSRP[236][1]=1.85224e-20 and in dB, it is -197.323
+With cell bias 0.413927, the RSRP is -196.909RSRP[236][2]=1.14488e-20 and in dB, it is -199.412
+
+RSRP[236][3]=0 and in dB, it is -inf
+
+RSRP[237][1]=6.72682e-18 and in dB, it is -171.722
+With cell bias 0.413927, the RSRP is -171.308RSRP[237][2]=1.97952e-20 and in dB, it is -197.034
+
+RSRP[237][3]=0 and in dB, it is -inf
+
+RSRP[238][1]=1.01605e-18 and in dB, it is -179.931
+With cell bias 0.413927, the RSRP is -179.517RSRP[238][2]=1.6822e-20 and in dB, it is -197.741
+
+RSRP[238][3]=0 and in dB, it is -inf
+
+RSRP[239][1]=3.41231e-20 and in dB, it is -194.67
+With cell bias 0.413927, the RSRP is -194.256RSRP[239][2]=1.86287e-20 and in dB, it is -197.298
+
+RSRP[239][3]=0 and in dB, it is -inf
+
+RSRP[240][1]=8.02626e-21 and in dB, it is -200.955
+With cell bias 0.413927, the RSRP is -200.541RSRP[240][2]=7.00282e-21 and in dB, it is -201.547
+
+RSRP[240][3]=0 and in dB, it is -inf
+
+RSRP[241][1]=4.00101e-18 and in dB, it is -173.978
+With cell bias 0.413927, the RSRP is -173.564RSRP[241][2]=2.47307e-20 and in dB, it is -196.068
+
+RSRP[241][3]=0 and in dB, it is -inf
+
+RSRP[242][1]=1.26367e-20 and in dB, it is -198.984
+With cell bias 0.413927, the RSRP is -198.57RSRP[242][2]=8.57446e-21 and in dB, it is -200.668
+
+RSRP[242][3]=0 and in dB, it is -inf
+
+RSRP[243][1]=3.15774e-20 and in dB, it is -195.006
+With cell bias 0.413927, the RSRP is -194.592RSRP[243][2]=3.08426e-20 and in dB, it is -195.108
+
+RSRP[243][3]=0 and in dB, it is -inf
+
+RSRP[244][1]=4.73067e-20 and in dB, it is -193.251
+With cell bias 0.413927, the RSRP is -192.837RSRP[244][2]=1.33466e-20 and in dB, it is -198.746
+
+RSRP[244][3]=0 and in dB, it is -inf
+
+RSRP[245][1]=2.91759e-20 and in dB, it is -195.35
+With cell bias 0.413927, the RSRP is -194.936RSRP[245][2]=2.03372e-20 and in dB, it is -196.917
+
+RSRP[245][3]=0 and in dB, it is -inf
+
+RSRP[246][1]=1.02854e-20 and in dB, it is -199.878
+With cell bias 0.413927, the RSRP is -199.464RSRP[246][2]=8.59667e-21 and in dB, it is -200.657
+
+RSRP[246][3]=0 and in dB, it is -inf
+
+RSRP[247][1]=1.47597e-19 and in dB, it is -188.309
+With cell bias 0.413927, the RSRP is -187.895RSRP[247][2]=2.71557e-20 and in dB, it is -195.661
+
+RSRP[247][3]=0 and in dB, it is -inf
+
+RSRP[248][1]=8.42459e-20 and in dB, it is -190.745
+With cell bias 0.413927, the RSRP is -190.331RSRP[248][2]=1.84958e-20 and in dB, it is -197.329
+
+RSRP[248][3]=0 and in dB, it is -inf
+
+RSRP[249][1]=2.49451e-20 and in dB, it is -196.03
+With cell bias 0.413927, the RSRP is -195.616RSRP[249][2]=1.97582e-20 and in dB, it is -197.043
+
+RSRP[249][3]=0 and in dB, it is -inf
+
+RSRP[250][1]=1.91337e-18 and in dB, it is -177.182
+With cell bias 0.413927, the RSRP is -176.768RSRP[250][2]=3.29482e-20 and in dB, it is -194.822
+
+RSRP[250][3]=0 and in dB, it is -inf
+
+RSRP[251][1]=1.75228e-20 and in dB, it is -197.564
+With cell bias 0.413927, the RSRP is -197.15RSRP[251][2]=1.43585e-20 and in dB, it is -198.429
+
+RSRP[251][3]=0 and in dB, it is -inf
+
+RSRP[252][1]=1.58857e-20 and in dB, it is -197.99
+With cell bias 0.413927, the RSRP is -197.576RSRP[252][2]=1.30128e-20 and in dB, it is -198.856
+
+RSRP[252][3]=0 and in dB, it is -inf
+
+RSRP[253][1]=1.1234e-20 and in dB, it is -199.495
+With cell bias 0.413927, the RSRP is -199.081RSRP[253][2]=8.52111e-21 and in dB, it is -200.695
+
+RSRP[253][3]=0 and in dB, it is -inf
+
+RSRP[254][1]=2.14656e-18 and in dB, it is -176.683
+With cell bias 0.413927, the RSRP is -176.269RSRP[254][2]=3.20728e-20 and in dB, it is -194.939
+
+RSRP[254][3]=0 and in dB, it is -inf
+
+RSRP[255][1]=1.12358e-20 and in dB, it is -199.494
+With cell bias 0.413927, the RSRP is -199.08RSRP[255][2]=1.15783e-20 and in dB, it is -199.364
+
+RSRP[255][3]=0 and in dB, it is -inf
+
+RSRP[256][1]=7.12045e-20 and in dB, it is -191.475
+With cell bias 0.413927, the RSRP is -191.061RSRP[256][2]=1.51601e-20 and in dB, it is -198.193
+
+RSRP[256][3]=0 and in dB, it is -inf
+
+RSRP[257][1]=4.90184e-20 and in dB, it is -193.096
+With cell bias 0.413927, the RSRP is -192.682RSRP[257][2]=1.3369e-20 and in dB, it is -198.739
+
+RSRP[257][3]=0 and in dB, it is -inf
+
+RSRP[258][1]=2.98913e-19 and in dB, it is -185.245
+With cell bias 0.413927, the RSRP is -184.831RSRP[258][2]=1.47406e-20 and in dB, it is -198.315
+
+RSRP[258][3]=0 and in dB, it is -inf
+
+RSRP[259][1]=2.59023e-20 and in dB, it is -195.867
+With cell bias 0.413927, the RSRP is -195.453RSRP[259][2]=1.5354e-20 and in dB, it is -198.138
+
+RSRP[259][3]=0 and in dB, it is -inf
+
+RSRP[260][1]=5.80182e-20 and in dB, it is -192.364
+With cell bias 0.413927, the RSRP is -191.95RSRP[260][2]=1.44357e-20 and in dB, it is -198.406
+
+RSRP[260][3]=0 and in dB, it is -inf
+
+RSRP[261][1]=4.86801e-20 and in dB, it is -193.126
+With cell bias 0.413927, the RSRP is -192.713RSRP[261][2]=2.67945e-20 and in dB, it is -195.72
+
+RSRP[261][3]=0 and in dB, it is -inf
+
+RSRP[262][1]=4.40679e-20 and in dB, it is -193.559
+With cell bias 0.413927, the RSRP is -193.145RSRP[262][2]=1.50964e-20 and in dB, it is -198.211
+
+RSRP[262][3]=0 and in dB, it is -inf
+
+RSRP[263][1]=8.27122e-20 and in dB, it is -190.824
+With cell bias 0.413927, the RSRP is -190.41RSRP[263][2]=4.40622e-20 and in dB, it is -193.559
+
+RSRP[263][3]=0 and in dB, it is -inf
+
+RSRP[264][1]=3.11199e-19 and in dB, it is -185.07
+With cell bias 0.413927, the RSRP is -184.656RSRP[264][2]=4.21638e-20 and in dB, it is -193.751
+
+RSRP[264][3]=0 and in dB, it is -inf
+
+RSRP[265][1]=1.36468e-20 and in dB, it is -198.65
+With cell bias 0.413927, the RSRP is -198.236RSRP[265][2]=7.95823e-21 and in dB, it is -200.992
+
+RSRP[265][3]=0 and in dB, it is -inf
+
+RSRP[266][1]=7.60505e-20 and in dB, it is -191.189
+With cell bias 0.413927, the RSRP is -190.775RSRP[266][2]=4.81066e-20 and in dB, it is -193.178
+
+RSRP[266][3]=0 and in dB, it is -inf
+
+RSRP[267][1]=1.68006e-20 and in dB, it is -197.747
+With cell bias 0.413927, the RSRP is -197.333RSRP[267][2]=1.07759e-20 and in dB, it is -199.675
+
+RSRP[267][3]=0 and in dB, it is -inf
+
+RSRP[268][1]=1.16151e-19 and in dB, it is -189.35
+With cell bias 0.413927, the RSRP is -188.936RSRP[268][2]=1.28505e-20 and in dB, it is -198.911
+
+RSRP[268][3]=0 and in dB, it is -inf
+
+RSRP[269][1]=6.07237e-20 and in dB, it is -192.166
+With cell bias 0.413927, the RSRP is -191.752RSRP[269][2]=5.66969e-20 and in dB, it is -192.464
+
+RSRP[269][3]=0 and in dB, it is -inf
+
+RSRP[270][1]=5.96256e-18 and in dB, it is -172.246
+With cell bias 0.413927, the RSRP is -171.832RSRP[270][2]=2.7524e-20 and in dB, it is -195.603
+
+RSRP[270][3]=0 and in dB, it is -inf
+
+RSRP[271][1]=1.02774e-18 and in dB, it is -179.881
+With cell bias 0.413927, the RSRP is -179.467RSRP[271][2]=1.92566e-20 and in dB, it is -197.154
+
+RSRP[271][3]=0 and in dB, it is -inf
+
+RSRP[272][1]=1.26969e-20 and in dB, it is -198.963
+With cell bias 0.413927, the RSRP is -198.549RSRP[272][2]=1.36301e-20 and in dB, it is -198.655
+
+RSRP[272][3]=0 and in dB, it is -inf
+
+RSRP[273][1]=1.72065e-19 and in dB, it is -187.643
+With cell bias 0.413927, the RSRP is -187.229RSRP[273][2]=1.3421e-20 and in dB, it is -198.722
+
+RSRP[273][3]=0 and in dB, it is -inf
+
+RSRP[274][1]=5.08449e-20 and in dB, it is -192.938
+With cell bias 0.413927, the RSRP is -192.524RSRP[274][2]=5.21919e-20 and in dB, it is -192.824
+
+RSRP[274][3]=0 and in dB, it is -inf
+
+RSRP[275][1]=5.6292e-20 and in dB, it is -192.496
+With cell bias 0.413927, the RSRP is -192.082RSRP[275][2]=1.35673e-20 and in dB, it is -198.675
+
+RSRP[275][3]=0 and in dB, it is -inf
+
+RSRP[276][1]=1.9155e-19 and in dB, it is -187.177
+With cell bias 0.413927, the RSRP is -186.763RSRP[276][2]=1.608e-20 and in dB, it is -197.937
+
+RSRP[276][3]=0 and in dB, it is -inf
+
+RSRP[277][1]=1.70723e-20 and in dB, it is -197.677
+With cell bias 0.413927, the RSRP is -197.263RSRP[277][2]=1.00628e-20 and in dB, it is -199.973
+
+RSRP[277][3]=0 and in dB, it is -inf
+
+RSRP[278][1]=4.54331e-20 and in dB, it is -193.426
+With cell bias 0.413927, the RSRP is -193.012RSRP[278][2]=1.30989e-20 and in dB, it is -198.828
+
+RSRP[278][3]=0 and in dB, it is -inf
+
+RSRP[279][1]=2.86603e-20 and in dB, it is -195.427
+With cell bias 0.413927, the RSRP is -195.013RSRP[279][2]=1.79376e-20 and in dB, it is -197.462
+
+RSRP[279][3]=0 and in dB, it is -inf
+
+RSRP[280][1]=9.21813e-19 and in dB, it is -180.354
+With cell bias 0.413927, the RSRP is -179.94RSRP[280][2]=1.9335e-20 and in dB, it is -197.137
+
+RSRP[280][3]=0 and in dB, it is -inf
+
+RSRP[281][1]=2.20426e-15 and in dB, it is -146.567
+With cell bias 0.413927, the RSRP is -146.153RSRP[281][2]=2.40846e-20 and in dB, it is -196.183
+
+RSRP[281][3]=0 and in dB, it is -inf
+
+RSRP[282][1]=4.79628e-19 and in dB, it is -183.191
+With cell bias 0.413927, the RSRP is -182.777RSRP[282][2]=3.9094e-20 and in dB, it is -194.079
+
+RSRP[282][3]=0 and in dB, it is -inf
+
+RSRP[283][1]=8.09291e-18 and in dB, it is -170.919
+With cell bias 0.413927, the RSRP is -170.505RSRP[283][2]=2.01255e-20 and in dB, it is -196.963
+
+RSRP[283][3]=0 and in dB, it is -inf
+
+RSRP[284][1]=9.52033e-19 and in dB, it is -180.213
+With cell bias 0.413927, the RSRP is -179.8RSRP[284][2]=3.13433e-20 and in dB, it is -195.039
+
+RSRP[284][3]=0 and in dB, it is -inf
+
+RSRP[285][1]=8.83745e-20 and in dB, it is -190.537
+With cell bias 0.413927, the RSRP is -190.123RSRP[285][2]=1.48765e-20 and in dB, it is -198.275
+
+RSRP[285][3]=0 and in dB, it is -inf
+
+RSRP[286][1]=7.37046e-19 and in dB, it is -181.325
+With cell bias 0.413927, the RSRP is -180.911RSRP[286][2]=1.76903e-20 and in dB, it is -197.523
+
+RSRP[286][3]=0 and in dB, it is -inf
+
+RSRP[287][1]=5.16037e-19 and in dB, it is -182.873
+With cell bias 0.413927, the RSRP is -182.459RSRP[287][2]=1.90922e-20 and in dB, it is -197.191
+
+RSRP[287][3]=0 and in dB, it is -inf
+
+RSRP[288][1]=2.7338e-20 and in dB, it is -195.632
+With cell bias 0.413927, the RSRP is -195.218RSRP[288][2]=1.46662e-20 and in dB, it is -198.337
+
+RSRP[288][3]=0 and in dB, it is -inf
+
+RSRP[289][1]=6.05534e-20 and in dB, it is -192.179
+With cell bias 0.413927, the RSRP is -191.765RSRP[289][2]=6.13131e-20 and in dB, it is -192.124
+
+RSRP[289][3]=0 and in dB, it is -inf
+
+RSRP[290][1]=1.32201e-18 and in dB, it is -178.788
+With cell bias 0.413927, the RSRP is -178.374RSRP[290][2]=1.78828e-20 and in dB, it is -197.476
+
+RSRP[290][3]=0 and in dB, it is -inf
+
+RSRP[291][1]=2.88301e-20 and in dB, it is -195.402
+With cell bias 0.413927, the RSRP is -194.988RSRP[291][2]=1.01398e-20 and in dB, it is -199.94
+
+RSRP[291][3]=0 and in dB, it is -inf
+
+RSRP[292][1]=1.0578e-20 and in dB, it is -199.756
+With cell bias 0.413927, the RSRP is -199.342RSRP[292][2]=8.02728e-21 and in dB, it is -200.954
+
+RSRP[292][3]=0 and in dB, it is -inf
+
+RSRP[293][1]=1.1198e-18 and in dB, it is -179.509
+With cell bias 0.413927, the RSRP is -179.095RSRP[293][2]=1.68371e-20 and in dB, it is -197.737
+
+RSRP[293][3]=0 and in dB, it is -inf
+
+RSRP[294][1]=6.40786e-19 and in dB, it is -181.933
+With cell bias 0.413927, the RSRP is -181.519RSRP[294][2]=3.26966e-20 and in dB, it is -194.855
+
+RSRP[294][3]=0 and in dB, it is -inf
+
+RSRP[295][1]=1.74904e-20 and in dB, it is -197.572
+With cell bias 0.413927, the RSRP is -197.158RSRP[295][2]=8.95557e-21 and in dB, it is -200.479
+
+RSRP[295][3]=0 and in dB, it is -inf
+
+RSRP[296][1]=2.14695e-20 and in dB, it is -196.682
+With cell bias 0.413927, the RSRP is -196.268RSRP[296][2]=8.92069e-21 and in dB, it is -200.496
+
+RSRP[296][3]=0 and in dB, it is -inf
+
+RSRP[297][1]=6.19213e-20 and in dB, it is -192.082
+With cell bias 0.413927, the RSRP is -191.668RSRP[297][2]=2.81021e-20 and in dB, it is -195.513
+
+RSRP[297][3]=0 and in dB, it is -inf
+
+RSRP[298][1]=1.18715e-20 and in dB, it is -199.255
+With cell bias 0.413927, the RSRP is -198.841RSRP[298][2]=8.2331e-21 and in dB, it is -200.844
+
+RSRP[298][3]=0 and in dB, it is -inf
+
+RSRP[299][1]=3.46425e-20 and in dB, it is -194.604
+With cell bias 0.413927, the RSRP is -194.19RSRP[299][2]=1.23476e-20 and in dB, it is -199.084
+
+RSRP[299][3]=0 and in dB, it is -inf
+
+RSRP[300][1]=1.04751e-19 and in dB, it is -189.798
+With cell bias 0.413927, the RSRP is -189.384RSRP[300][2]=1.41866e-20 and in dB, it is -198.481
+
+RSRP[300][3]=0 and in dB, it is -inf
+
+RSRP[301][1]=2.35634e-20 and in dB, it is -196.278
+With cell bias 0.413927, the RSRP is -195.864RSRP[301][2]=1.06659e-20 and in dB, it is -199.72
+
+RSRP[301][3]=0 and in dB, it is -inf
+
+RSRP[302][1]=2.2339e-20 and in dB, it is -196.509
+With cell bias 0.413927, the RSRP is -196.095RSRP[302][2]=1.34288e-20 and in dB, it is -198.72
+
+RSRP[302][3]=0 and in dB, it is -inf
+
+RSRP[303][1]=3.86939e-20 and in dB, it is -194.124
+With cell bias 0.413927, the RSRP is -193.71RSRP[303][2]=1.03273e-20 and in dB, it is -199.86
+
+RSRP[303][3]=0 and in dB, it is -inf
+
+RSRP[304][1]=7.35266e-20 and in dB, it is -191.336
+With cell bias 0.413927, the RSRP is -190.922RSRP[304][2]=1.91577e-20 and in dB, it is -197.177
+
+RSRP[304][3]=0 and in dB, it is -inf
+
+RSRP[305][1]=1.07793e-20 and in dB, it is -199.674
+With cell bias 0.413927, the RSRP is -199.26RSRP[305][2]=8.11678e-21 and in dB, it is -200.906
+
+RSRP[305][3]=0 and in dB, it is -inf
+
+RSRP[306][1]=2.31838e-20 and in dB, it is -196.348
+With cell bias 0.413927, the RSRP is -195.934RSRP[306][2]=2.23783e-20 and in dB, it is -196.502
+
+RSRP[306][3]=0 and in dB, it is -inf
+
+RSRP[307][1]=7.77059e-21 and in dB, it is -201.095
+With cell bias 0.413927, the RSRP is -200.682RSRP[307][2]=7.00263e-21 and in dB, it is -201.547
+
+RSRP[307][3]=0 and in dB, it is -inf
+
+RSRP[308][1]=1.58804e-19 and in dB, it is -187.991
+With cell bias 0.413927, the RSRP is -187.577RSRP[308][2]=4.49839e-20 and in dB, it is -193.469
+
+RSRP[308][3]=0 and in dB, it is -inf
+
+RSRP[309][1]=3.55444e-20 and in dB, it is -194.492
+With cell bias 0.413927, the RSRP is -194.078RSRP[309][2]=1.02116e-20 and in dB, it is -199.909
+
+RSRP[309][3]=0 and in dB, it is -inf
+
+RSRP[310][1]=1.49874e-19 and in dB, it is -188.243
+With cell bias 0.413927, the RSRP is -187.829RSRP[310][2]=4.80418e-20 and in dB, it is -193.184
+
+RSRP[310][3]=0 and in dB, it is -inf
+
+RSRP[311][1]=1.46924e-18 and in dB, it is -178.329
+With cell bias 0.413927, the RSRP is -177.915RSRP[311][2]=3.08734e-20 and in dB, it is -195.104
+
+RSRP[311][3]=0 and in dB, it is -inf
+
+RSRP[312][1]=7.99125e-17 and in dB, it is -160.974
+With cell bias 0.413927, the RSRP is -160.56RSRP[312][2]=2.30877e-20 and in dB, it is -196.366
+
+RSRP[312][3]=0 and in dB, it is -inf
+
+RSRP[313][1]=9.49824e-21 and in dB, it is -200.224
+With cell bias 0.413927, the RSRP is -199.81RSRP[313][2]=9.67688e-21 and in dB, it is -200.143
+
+RSRP[313][3]=0 and in dB, it is -inf
+
+RSRP[314][1]=1.25085e-20 and in dB, it is -199.028
+With cell bias 0.413927, the RSRP is -198.614RSRP[314][2]=1.34368e-20 and in dB, it is -198.717
+
+RSRP[314][3]=0 and in dB, it is -inf
+
+RSRP[315][1]=7.85256e-21 and in dB, it is -201.05
+With cell bias 0.413927, the RSRP is -200.636RSRP[315][2]=6.98891e-21 and in dB, it is -201.556
+
+RSRP[315][3]=0 and in dB, it is -inf
+
+RSRP[316][1]=1.52886e-19 and in dB, it is -188.156
+With cell bias 0.413927, the RSRP is -187.742RSRP[316][2]=1.36711e-20 and in dB, it is -198.642
+
+RSRP[316][3]=0 and in dB, it is -inf
+
+RSRP[317][1]=2.72164e-19 and in dB, it is -185.652
+With cell bias 0.413927, the RSRP is -185.238RSRP[317][2]=4.23223e-20 and in dB, it is -193.734
+
+RSRP[317][3]=0 and in dB, it is -inf
+
+RSRP[318][1]=9.20341e-19 and in dB, it is -180.361
+With cell bias 0.413927, the RSRP is -179.947RSRP[318][2]=1.75591e-20 and in dB, it is -197.555
+
+RSRP[318][3]=0 and in dB, it is -inf
+

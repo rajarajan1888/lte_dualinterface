@@ -1,0 +1,641 @@
+No. of users = 318
+Center is (668.977,0)
+Radius is 214.811
+ UID : 1 (xcoord,ycoord) and small cell distance is (528,16) and 73.7564 and outer circle distance is 141.882
+ UID : 2 (xcoord,ycoord) and small cell distance is (775,28) and 177.226 and outer circle distance is 109.658
+ UID : 3 (xcoord,ycoord) and small cell distance is (761,-31) and 163.957 and outer circle distance is 97.1045
+ UID : 4 (xcoord,ycoord) and small cell distance is (812,107) and 237.472 and outer circle distance is 178.619
+ UID : 5 (xcoord,ycoord) and small cell distance is (540,-56) and 82.0731 and outer circle distance is 140.609
+ UID : 6 (xcoord,ycoord) and small cell distance is (540,-132) and 144.997 and outer circle distance is 184.551
+ UID : 7 (xcoord,ycoord) and small cell distance is (823,8) and 223.143 and outer circle distance is 154.231
+ UID : 8 (xcoord,ycoord) and small cell distance is (629,144) and 146.891 and outer circle distance is 149.446
+ UID : 9 (xcoord,ycoord) and small cell distance is (863,-15) and 263.427 and outer circle distance is 194.602
+ UID : 10 (xcoord,ycoord) and small cell distance is (768,-177) and 244.035 and outer circle distance is 202.817
+ UID : 11 (xcoord,ycoord) and small cell distance is (723,-117) and 169.759 and outer circle distance is 128.87
+ UID : 12 (xcoord,ycoord) and small cell distance is (648,0) and 48 and outer circle distance is 20.9767
+ UID : 13 (xcoord,ycoord) and small cell distance is (641,60) and 72.6705 and outer circle distance is 66.2019
+ UID : 14 (xcoord,ycoord) and small cell distance is (492,94) and 143.178 and outer circle distance is 200.391
+ UID : 15 (xcoord,ycoord) and small cell distance is (507,52) and 106.55 and outer circle distance is 170.119
+ UID : 16 (xcoord,ycoord) and small cell distance is (751,-131) and 199.905 and outer circle distance is 154.56
+ UID : 17 (xcoord,ycoord) and small cell distance is (817,145) and 260.987 and outer circle distance is 207.21
+ UID : 18 (xcoord,ycoord) and small cell distance is (489,-95) and 146.103 and outer circle distance is 203.511
+ UID : 19 (xcoord,ycoord) and small cell distance is (736,-192) and 235.287 and outer circle distance is 203.362
+ UID : 20 (xcoord,ycoord) and small cell distance is (823,81) and 237.255 and outer circle distance is 174.024
+ UID : 21 (xcoord,ycoord) and small cell distance is (844,101) and 264.078 and outer circle distance is 202.075
+ UID : 22 (xcoord,ycoord) and small cell distance is (597,-26) and 26.1725 and outer circle distance is 76.5287
+ UID : 23 (xcoord,ycoord) and small cell distance is (682,-17) and 83.7437 and outer circle distance is 21.4151
+ UID : 24 (xcoord,ycoord) and small cell distance is (577,-143) and 144.838 and outer circle distance is 170.026
+ UID : 25 (xcoord,ycoord) and small cell distance is (842,-80) and 254.88 and outer circle distance is 190.623
+ UID : 26 (xcoord,ycoord) and small cell distance is (754,-46) and 160.723 and outer circle distance is 96.6694
+ UID : 27 (xcoord,ycoord) and small cell distance is (608,122) and 122.262 and outer circle distance is 136.39
+ UID : 28 (xcoord,ycoord) and small cell distance is (625,-39) and 46.3249 and outer circle distance is 58.7788
+ UID : 29 (xcoord,ycoord) and small cell distance is (838,-41) and 241.506 and outer circle distance is 173.925
+ UID : 30 (xcoord,ycoord) and small cell distance is (759,5) and 159.079 and outer circle distance is 90.1621
+ UID : 31 (xcoord,ycoord) and small cell distance is (516,139) and 162.41 and outer circle distance is 206.695
+ UID : 32 (xcoord,ycoord) and small cell distance is (850,-13) and 250.338 and outer circle distance is 181.49
+ UID : 33 (xcoord,ycoord) and small cell distance is (622,56) and 60.1664 and outer circle distance is 73.0945
+ UID : 34 (xcoord,ycoord) and small cell distance is (493,89) and 139.176 and outer circle distance is 197.202
+ UID : 35 (xcoord,ycoord) and small cell distance is (544,-58) and 80.6226 and outer circle distance is 137.779
+ UID : 36 (xcoord,ycoord) and small cell distance is (847,97) and 265.364 and outer circle distance is 202.735
+ UID : 37 (xcoord,ycoord) and small cell distance is (769,69) and 182.543 and outer circle distance is 121.514
+ UID : 38 (xcoord,ycoord) and small cell distance is (664,107) and 124.68 and outer circle distance is 107.116
+ UID : 39 (xcoord,ycoord) and small cell distance is (561,138) and 143.405 and outer circle distance is 175.223
+ UID : 40 (xcoord,ycoord) and small cell distance is (667,120) and 137.437 and outer circle distance is 120.016
+ UID : 41 (xcoord,ycoord) and small cell distance is (812,-121) and 244.1 and outer circle distance is 187.341
+ UID : 42 (xcoord,ycoord) and small cell distance is (779,95) and 202.647 and outer circle distance is 145.362
+ UID : 43 (xcoord,ycoord) and small cell distance is (458,-27) and 144.544 and outer circle distance is 212.697
+ UID : 44 (xcoord,ycoord) and small cell distance is (538,-43) and 75.452 and outer circle distance is 137.855
+ UID : 45 (xcoord,ycoord) and small cell distance is (594,159) and 159.113 and outer circle distance is 175.791
+ UID : 46 (xcoord,ycoord) and small cell distance is (757,-32) and 160.228 and outer circle distance is 93.6595
+ UID : 47 (xcoord,ycoord) and small cell distance is (494,-2) and 106.019 and outer circle distance is 174.988
+ UID : 48 (xcoord,ycoord) and small cell distance is (772,-19) and 173.046 and outer circle distance is 104.761
+ UID : 49 (xcoord,ycoord) and small cell distance is (849,-59) and 255.895 and outer circle distance is 189.445
+ UID : 50 (xcoord,ycoord) and small cell distance is (800,161) and 256.751 and outer circle distance is 207.577
+ UID : 51 (xcoord,ycoord) and small cell distance is (842,-45) and 246.148 and outer circle distance is 178.779
+ UID : 52 (xcoord,ycoord) and small cell distance is (547,-103) and 115.836 and outer circle distance is 159.647
+ UID : 53 (xcoord,ycoord) and small cell distance is (558,125) and 131.867 and outer circle distance is 167.155
+ UID : 54 (xcoord,ycoord) and small cell distance is (855,-29) and 256.644 and outer circle distance is 188.27
+ UID : 55 (xcoord,ycoord) and small cell distance is (700,180) and 205.913 and outer circle distance is 182.654
+ UID : 56 (xcoord,ycoord) and small cell distance is (766,-84) and 186.043 and outer circle distance is 128.334
+ UID : 57 (xcoord,ycoord) and small cell distance is (692,-123) and 153.6 and outer circle distance is 125.136
+ UID : 58 (xcoord,ycoord) and small cell distance is (651,164) and 171.747 and outer circle distance is 164.982
+ UID : 59 (xcoord,ycoord) and small cell distance is (505,-33) and 100.568 and outer circle distance is 167.264
+ UID : 60 (xcoord,ycoord) and small cell distance is (837,46) and 241.423 and outer circle distance is 174.206
+ UID : 61 (xcoord,ycoord) and small cell distance is (764,153) and 224.288 and outer circle distance is 180.107
+ UID : 62 (xcoord,ycoord) and small cell distance is (607,-64) and 64.3817 and outer circle distance is 89.0905
+ UID : 63 (xcoord,ycoord) and small cell distance is (705,155) and 187.216 and outer circle distance is 159.131
+ UID : 64 (xcoord,ycoord) and small cell distance is (504,62) and 114.28 and outer circle distance is 176.242
+ UID : 65 (xcoord,ycoord) and small cell distance is (735,-91) and 162.807 and outer circle distance is 112.428
+ UID : 66 (xcoord,ycoord) and small cell distance is (681,146) and 166.964 and outer circle distance is 146.494
+ UID : 67 (xcoord,ycoord) and small cell distance is (796,-69) and 207.791 and outer circle distance is 144.554
+ UID : 68 (xcoord,ycoord) and small cell distance is (806,17) and 206.7 and outer circle distance is 138.074
+ UID : 69 (xcoord,ycoord) and small cell distance is (557,45) and 62.2415 and outer circle distance is 120.68
+ UID : 70 (xcoord,ycoord) and small cell distance is (482,37) and 123.665 and outer circle distance is 190.602
+ UID : 71 (xcoord,ycoord) and small cell distance is (585,142) and 142.79 and outer circle distance is 164.973
+ UID : 72 (xcoord,ycoord) and small cell distance is (850,10) and 250.2 and outer circle distance is 181.299
+ UID : 73 (xcoord,ycoord) and small cell distance is (590,-42) and 43.1741 and outer circle distance is 89.4501
+ UID : 74 (xcoord,ycoord) and small cell distance is (664,122) and 137.768 and outer circle distance is 122.101
+ UID : 75 (xcoord,ycoord) and small cell distance is (735,-166) and 213.965 and outer circle distance is 178.648
+ UID : 76 (xcoord,ycoord) and small cell distance is (749,185) and 237.542 and outer circle distance is 201.566
+ UID : 77 (xcoord,ycoord) and small cell distance is (466,55) and 144.848 and outer circle distance is 210.296
+ UID : 78 (xcoord,ycoord) and small cell distance is (464,-24) and 138.101 and outer circle distance is 206.377
+ UID : 79 (xcoord,ycoord) and small cell distance is (690,-31) and 95.1893 and outer circle distance is 37.4564
+ UID : 80 (xcoord,ycoord) and small cell distance is (593,62) and 62.3939 and outer circle distance is 98.0635
+ UID : 81 (xcoord,ycoord) and small cell distance is (749,24) and 150.921 and outer circle distance is 83.5448
+ UID : 82 (xcoord,ycoord) and small cell distance is (710,-89) and 141.496 and outer circle distance is 97.9996
+ UID : 83 (xcoord,ycoord) and small cell distance is (751,27) and 153.395 and outer circle distance is 86.3529
+ UID : 84 (xcoord,ycoord) and small cell distance is (589,-160) and 160.378 and outer circle distance is 178.875
+ UID : 85 (xcoord,ycoord) and small cell distance is (672,117) and 137.379 and outer circle distance is 117.039
+ UID : 86 (xcoord,ycoord) and small cell distance is (568,168) and 171.02 and outer circle distance is 196.011
+ UID : 87 (xcoord,ycoord) and small cell distance is (609,-12) and 15 and outer circle distance is 61.1654
+ UID : 88 (xcoord,ycoord) and small cell distance is (520,-57) and 98.2293 and outer circle distance is 159.509
+ UID : 89 (xcoord,ycoord) and small cell distance is (806,-119) and 237.901 and outer circle distance is 181.484
+ UID : 90 (xcoord,ycoord) and small cell distance is (754,-20) and 155.293 and outer circle distance is 87.3439
+ UID : 91 (xcoord,ycoord) and small cell distance is (852,-11) and 252.24 and outer circle distance is 183.354
+ UID : 92 (xcoord,ycoord) and small cell distance is (810,90) and 228.473 and outer circle distance is 167.295
+ UID : 93 (xcoord,ycoord) and small cell distance is (505,113) and 147.628 and outer circle distance is 199.142
+ UID : 94 (xcoord,ycoord) and small cell distance is (620,-165) and 166.208 and outer circle distance is 172.115
+ UID : 95 (xcoord,ycoord) and small cell distance is (750,39) and 154.987 and outer circle distance is 89.921
+ UID : 96 (xcoord,ycoord) and small cell distance is (635,60) and 69.4622 and outer circle distance is 68.9523
+ UID : 97 (xcoord,ycoord) and small cell distance is (588,-51) and 52.3927 and outer circle distance is 95.6986
+ UID : 98 (xcoord,ycoord) and small cell distance is (841,-5) and 241.052 and outer circle distance is 172.096
+ UID : 99 (xcoord,ycoord) and small cell distance is (772,165) and 238.346 and outer circle distance is 194.522
+ UID : 100 (xcoord,ycoord) and small cell distance is (543,-140) and 151.159 and outer circle distance is 188.335
+ UID : 101 (xcoord,ycoord) and small cell distance is (784,-171) and 251.191 and outer circle distance is 206.086
+ UID : 102 (xcoord,ycoord) and small cell distance is (477,73) and 143.031 and outer circle distance is 205.388
+ UID : 103 (xcoord,ycoord) and small cell distance is (615,67) and 68.6586 and outer circle distance is 86.0377
+ UID : 104 (xcoord,ycoord) and small cell distance is (673,114) and 135.37 and outer circle distance is 114.071
+ UID : 105 (xcoord,ycoord) and small cell distance is (582,189) and 189.855 and outer circle distance is 208.053
+ UID : 106 (xcoord,ycoord) and small cell distance is (643,-68) and 80.455 and outer circle distance is 72.7928
+ UID : 107 (xcoord,ycoord) and small cell distance is (850,-115) and 275.182 and outer circle distance is 214.463
+ UID : 108 (xcoord,ycoord) and small cell distance is (798,158) and 253.314 and outer circle distance is 203.988
+ UID : 109 (xcoord,ycoord) and small cell distance is (604,67) and 67.1193 and outer circle distance is 93.3326
+ UID : 110 (xcoord,ycoord) and small cell distance is (871,36) and 273.381 and outer circle distance is 205.206
+ UID : 111 (xcoord,ycoord) and small cell distance is (739,93) and 167.242 and outer circle distance is 116.414
+ UID : 112 (xcoord,ycoord) and small cell distance is (815,-16) and 215.595 and outer circle distance is 146.897
+ UID : 113 (xcoord,ycoord) and small cell distance is (717,-5) and 117.107 and outer circle distance is 48.2829
+ UID : 114 (xcoord,ycoord) and small cell distance is (493,-111) and 154.175 and outer circle distance is 208.06
+ UID : 115 (xcoord,ycoord) and small cell distance is (642,-124) and 130.92 and outer circle distance is 126.901
+ UID : 116 (xcoord,ycoord) and small cell distance is (669,-17) and 71.0634 and outer circle distance is 17
+ UID : 117 (xcoord,ycoord) and small cell distance is (671,204) and 216.002 and outer circle distance is 204.01
+ UID : 118 (xcoord,ycoord) and small cell distance is (556,67) and 80.1561 and outer circle distance is 131.35
+ UID : 119 (xcoord,ycoord) and small cell distance is (630,-179) and 181.497 and outer circle distance is 183.194
+ UID : 120 (xcoord,ycoord) and small cell distance is (539,91) and 109.554 and outer circle distance is 158.666
+ UID : 121 (xcoord,ycoord) and small cell distance is (712,67) and 130.511 and outer circle distance is 79.6242
+ UID : 122 (xcoord,ycoord) and small cell distance is (582,74) and 76.1577 and outer circle distance is 114.197
+ UID : 123 (xcoord,ycoord) and small cell distance is (729,-109) and 168.885 and outer circle distance is 124.434
+ UID : 124 (xcoord,ycoord) and small cell distance is (547,151) and 160.031 and outer circle distance is 194.112
+ UID : 125 (xcoord,ycoord) and small cell distance is (661,-199) and 208.139 and outer circle distance is 199.16
+ UID : 126 (xcoord,ycoord) and small cell distance is (692,-26) and 95.6033 and outer circle distance is 34.7286
+ UID : 127 (xcoord,ycoord) and small cell distance is (508,24) and 95.0789 and outer circle distance is 162.756
+ UID : 128 (xcoord,ycoord) and small cell distance is (649,60) and 77.4661 and outer circle distance is 63.2382
+ UID : 129 (xcoord,ycoord) and small cell distance is (624,-186) and 187.542 and outer circle distance is 191.361
+ UID : 130 (xcoord,ycoord) and small cell distance is (596,-87) and 87.0919 and outer circle distance is 113.554
+ UID : 131 (xcoord,ycoord) and small cell distance is (769,104) and 198.436 and outer circle distance is 144.294
+ UID : 132 (xcoord,ycoord) and small cell distance is (867,11) and 267.226 and outer circle distance is 198.329
+ UID : 133 (xcoord,ycoord) and small cell distance is (478,-49) and 131.472 and outer circle distance is 197.163
+ UID : 134 (xcoord,ycoord) and small cell distance is (827,-10) and 227.22 and outer circle distance is 158.339
+ UID : 135 (xcoord,ycoord) and small cell distance is (562,142) and 146.997 and outer circle distance is 177.786
+ UID : 136 (xcoord,ycoord) and small cell distance is (566,73) and 80.5295 and outer circle distance is 126.227
+ UID : 137 (xcoord,ycoord) and small cell distance is (600,58) and 58 and outer circle distance is 90.1209
+ UID : 138 (xcoord,ycoord) and small cell distance is (717,53) and 128.445 and outer circle distance is 71.5209
+ UID : 139 (xcoord,ycoord) and small cell distance is (537,118) and 133.765 and outer circle distance is 177.036
+ UID : 140 (xcoord,ycoord) and small cell distance is (769,-24) and 170.696 and outer circle distance is 102.862
+ UID : 141 (xcoord,ycoord) and small cell distance is (541,32) and 67.1193 and outer circle distance is 131.917
+ UID : 142 (xcoord,ycoord) and small cell distance is (734,-61) and 147.231 and outer circle distance is 89.1573
+ UID : 143 (xcoord,ycoord) and small cell distance is (703,-111) and 151.427 and outer circle distance is 116.097
+ UID : 144 (xcoord,ycoord) and small cell distance is (754,178) and 235.372 and outer circle distance is 197.264
+ UID : 145 (xcoord,ycoord) and small cell distance is (748,-71) and 164.149 and outer circle distance is 106.234
+ UID : 146 (xcoord,ycoord) and small cell distance is (723,-201) and 235.648 and outer circle distance is 208.133
+ UID : 147 (xcoord,ycoord) and small cell distance is (555,21) and 49.6588 and outer circle distance is 115.895
+ UID : 148 (xcoord,ycoord) and small cell distance is (530,-132) and 149.412 and outer circle distance is 191.673
+ UID : 149 (xcoord,ycoord) and small cell distance is (537,-47) and 78.6003 and outer circle distance is 140.096
+ UID : 150 (xcoord,ycoord) and small cell distance is (712,57) and 125.67 and outer circle distance is 71.4143
+ UID : 151 (xcoord,ycoord) and small cell distance is (864,82) and 276.442 and outer circle distance is 211.561
+ UID : 152 (xcoord,ycoord) and small cell distance is (715,147) and 186.639 and outer circle distance is 154.036
+ UID : 153 (xcoord,ycoord) and small cell distance is (661,117) and 131.947 and outer circle distance is 117.272
+ UID : 154 (xcoord,ycoord) and small cell distance is (613,130) and 130.648 and outer circle distance is 141.539
+ UID : 155 (xcoord,ycoord) and small cell distance is (804,-79) and 218.762 and outer circle distance is 156.436
+ UID : 156 (xcoord,ycoord) and small cell distance is (673,-91) and 116.662 and outer circle distance is 91.0889
+ UID : 157 (xcoord,ycoord) and small cell distance is (613,-174) and 174.485 and outer circle distance is 182.782
+ UID : 158 (xcoord,ycoord) and small cell distance is (847,-76) and 258.428 and outer circle distance is 193.567
+ UID : 159 (xcoord,ycoord) and small cell distance is (851,-70) and 260.578 and outer circle distance is 195.019
+ UID : 160 (xcoord,ycoord) and small cell distance is (707,-18) and 108.503 and outer circle distance is 42.0687
+ UID : 161 (xcoord,ycoord) and small cell distance is (617,-26) and 31.0644 and outer circle distance is 58.1169
+ UID : 162 (xcoord,ycoord) and small cell distance is (610,-35) and 36.4005 and outer circle distance is 68.5802
+ UID : 163 (xcoord,ycoord) and small cell distance is (744,11) and 144.42 and outer circle distance is 75.8254
+ UID : 164 (xcoord,ycoord) and small cell distance is (775,-121) and 212.758 and outer circle distance is 160.879
+ UID : 165 (xcoord,ycoord) and small cell distance is (699,149) and 178.891 and outer circle distance is 151.995
+ UID : 166 (xcoord,ycoord) and small cell distance is (586,-129) and 129.757 and outer circle distance is 153.382
+ UID : 167 (xcoord,ycoord) and small cell distance is (815,46) and 219.866 and outer circle distance is 153.097
+ UID : 168 (xcoord,ycoord) and small cell distance is (614,50) and 51.923 and outer circle distance is 74.3131
+ UID : 169 (xcoord,ycoord) and small cell distance is (747,-49) and 154.952 and outer circle distance is 92.1338
+ UID : 170 (xcoord,ycoord) and small cell distance is (492,6) and 108.167 and outer circle distance is 177.078
+ UID : 171 (xcoord,ycoord) and small cell distance is (645,210) and 214.767 and outer circle distance is 211.364
+ UID : 172 (xcoord,ycoord) and small cell distance is (847,-37) and 249.756 and outer circle distance is 181.828
+ UID : 173 (xcoord,ycoord) and small cell distance is (653,-126) and 136.693 and outer circle distance is 127.009
+ UID : 174 (xcoord,ycoord) and small cell distance is (601,73) and 73.0068 and outer circle distance is 99.7488
+ UID : 175 (xcoord,ycoord) and small cell distance is (716,-37) and 121.758 and outer circle distance is 59.8347
+ UID : 176 (xcoord,ycoord) and small cell distance is (568,22) and 38.833 and outer circle distance is 103.345
+ UID : 177 (xcoord,ycoord) and small cell distance is (596,-192) and 192.042 and outer circle distance is 205.401
+ UID : 178 (xcoord,ycoord) and small cell distance is (876,-44) and 279.485 and outer circle distance is 211.647
+ UID : 179 (xcoord,ycoord) and small cell distance is (800,132) and 239.633 and outer circle distance is 185.987
+ UID : 180 (xcoord,ycoord) and small cell distance is (745,-7) and 145.169 and outer circle distance is 76.3449
+ UID : 181 (xcoord,ycoord) and small cell distance is (779,182) and 255.274 and outer circle distance is 212.671
+ UID : 182 (xcoord,ycoord) and small cell distance is (500,53) and 113.177 and outer circle distance is 177.094
+ UID : 183 (xcoord,ycoord) and small cell distance is (620,-130) and 131.529 and outer circle distance is 138.92
+ UID : 184 (xcoord,ycoord) and small cell distance is (534,-21) and 69.2604 and outer circle distance is 136.601
+ UID : 185 (xcoord,ycoord) and small cell distance is (729,57) and 141.032 and outer circle distance is 82.7756
+ UID : 186 (xcoord,ycoord) and small cell distance is (594,-192) and 192.094 and outer circle distance is 206.12
+ UID : 187 (xcoord,ycoord) and small cell distance is (713,-160) and 195.88 and outer circle distance is 165.946
+ UID : 188 (xcoord,ycoord) and small cell distance is (833,-138) and 270.801 and outer circle distance is 214.354
+ UID : 189 (xcoord,ycoord) and small cell distance is (630,146) and 149.05 and outer circle distance is 151.113
+ UID : 190 (xcoord,ycoord) and small cell distance is (618,96) and 97.6729 and outer circle distance is 108.695
+ UID : 191 (xcoord,ycoord) and small cell distance is (670,-136) and 152.958 and outer circle distance is 136.004
+ UID : 192 (xcoord,ycoord) and small cell distance is (673,74) and 103.947 and outer circle distance is 74.1093
+ UID : 193 (xcoord,ycoord) and small cell distance is (848,-51) and 253.19 and outer circle distance is 186.146
+ UID : 194 (xcoord,ycoord) and small cell distance is (824,44) and 228.281 and outer circle distance is 161.147
+ UID : 195 (xcoord,ycoord) and small cell distance is (512,37) and 95.462 and outer circle distance is 161.278
+ UID : 196 (xcoord,ycoord) and small cell distance is (800,-154) and 252.42 and outer circle distance is 202.196
+ UID : 197 (xcoord,ycoord) and small cell distance is (507,44) and 102.883 and outer circle distance is 167.846
+ UID : 198 (xcoord,ycoord) and small cell distance is (773,-102) and 200.831 and outer circle distance is 145.688
+ UID : 199 (xcoord,ycoord) and small cell distance is (787,-153) and 241.615 and outer circle distance is 193.232
+ UID : 200 (xcoord,ycoord) and small cell distance is (572,103) and 106.738 and outer circle distance is 141.469
+ UID : 201 (xcoord,ycoord) and small cell distance is (828,-67) and 237.64 and outer circle distance is 172.561
+ UID : 202 (xcoord,ycoord) and small cell distance is (649,-130) and 138.928 and outer circle distance is 131.526
+ UID : 203 (xcoord,ycoord) and small cell distance is (644,-15) and 46.4866 and outer circle distance is 29.1348
+ UID : 204 (xcoord,ycoord) and small cell distance is (735,112) and 175.411 and outer circle distance is 130.012
+ UID : 205 (xcoord,ycoord) and small cell distance is (588,-66) and 67.082 and outer circle distance is 104.466
+ UID : 206 (xcoord,ycoord) and small cell distance is (690,-135) and 162.25 and outer circle distance is 136.627
+ UID : 207 (xcoord,ycoord) and small cell distance is (694,-1) and 94.0053 and outer circle distance is 25.0433
+ UID : 208 (xcoord,ycoord) and small cell distance is (665,-58) and 87.1149 and outer circle distance is 58.1362
+ UID : 209 (xcoord,ycoord) and small cell distance is (757,-113) and 193.437 and outer circle distance is 143.238
+ UID : 210 (xcoord,ycoord) and small cell distance is (531,-146) and 161.484 and outer circle distance is 200.882
+ UID : 211 (xcoord,ycoord) and small cell distance is (622,134) and 135.794 and outer circle distance is 141.996
+ UID : 212 (xcoord,ycoord) and small cell distance is (692,-173) and 195.941 and outer circle distance is 174.525
+ UID : 213 (xcoord,ycoord) and small cell distance is (555,-9) and 45.8912 and outer circle distance is 114.331
+ UID : 214 (xcoord,ycoord) and small cell distance is (648,-50) and 69.3109 and outer circle distance is 54.222
+ UID : 215 (xcoord,ycoord) and small cell distance is (759,-73) and 174.957 and outer circle distance is 115.902
+ UID : 216 (xcoord,ycoord) and small cell distance is (564,114) and 119.549 and outer circle distance is 154.971
+ UID : 217 (xcoord,ycoord) and small cell distance is (634,156) and 159.662 and outer circle distance is 159.873
+ UID : 218 (xcoord,ycoord) and small cell distance is (739,163) and 214.22 and outer circle distance is 177.404
+ UID : 219 (xcoord,ycoord) and small cell distance is (796,68) and 207.461 and outer circle distance is 144.08
+ UID : 220 (xcoord,ycoord) and small cell distance is (613,-3) and 13.3417 and outer circle distance is 56.057
+ UID : 221 (xcoord,ycoord) and small cell distance is (455,-8) and 145.221 and outer circle distance is 214.126
+ UID : 222 (xcoord,ycoord) and small cell distance is (791,-114) and 222.434 and outer circle distance is 166.99
+ UID : 223 (xcoord,ycoord) and small cell distance is (679,145) and 165.124 and outer circle distance is 145.346
+ UID : 224 (xcoord,ycoord) and small cell distance is (493,-57) and 121.235 and outer circle distance is 184.978
+ UID : 225 (xcoord,ycoord) and small cell distance is (592,48) and 48.6621 and outer circle distance is 90.7161
+ UID : 226 (xcoord,ycoord) and small cell distance is (827,-49) and 232.228 and outer circle distance is 165.446
+ UID : 227 (xcoord,ycoord) and small cell distance is (632,166) and 169.056 and outer circle distance is 170.068
+ UID : 228 (xcoord,ycoord) and small cell distance is (729,128) and 181.728 and outer circle distance is 141.375
+ UID : 229 (xcoord,ycoord) and small cell distance is (785,-172) and 252.604 and outer circle distance is 207.474
+ UID : 230 (xcoord,ycoord) and small cell distance is (613,-81) and 82.0366 and outer circle distance is 98.4601
+ UID : 231 (xcoord,ycoord) and small cell distance is (724,-99) and 158.673 and outer circle distance is 113.263
+ UID : 232 (xcoord,ycoord) and small cell distance is (827,-50) and 232.441 and outer circle distance is 165.745
+ UID : 233 (xcoord,ycoord) and small cell distance is (663,-162) and 173.819 and outer circle distance is 162.11
+ UID : 234 (xcoord,ycoord) and small cell distance is (486,-3) and 114.039 and outer circle distance is 183.001
+ UID : 235 (xcoord,ycoord) and small cell distance is (637,53) and 64.6375 and outer circle distance is 61.8992
+ UID : 236 (xcoord,ycoord) and small cell distance is (721,161) and 201.4 and outer circle distance is 169.196
+ UID : 237 (xcoord,ycoord) and small cell distance is (632,20) and 37.7359 and outer circle distance is 42.039
+ UID : 238 (xcoord,ycoord) and small cell distance is (662,-18) and 64.56 and outer circle distance is 19.3048
+ UID : 239 (xcoord,ycoord) and small cell distance is (621,-168) and 169.307 and outer circle distance is 174.716
+ UID : 240 (xcoord,ycoord) and small cell distance is (847,65) and 255.409 and outer circle distance is 189.519
+ UID : 241 (xcoord,ycoord) and small cell distance is (592,43) and 43.7379 and outer circle distance is 88.1726
+ UID : 242 (xcoord,ycoord) and small cell distance is (794,113) and 224.511 and outer circle distance is 168.522
+ UID : 243 (xcoord,ycoord) and small cell distance is (534,-160) and 173.078 and outer circle distance is 209.329
+ UID : 244 (xcoord,ycoord) and small cell distance is (697,120) and 154.302 and outer circle distance is 123.229
+ UID : 245 (xcoord,ycoord) and small cell distance is (602,177) and 177.011 and outer circle distance is 189.248
+ UID : 246 (xcoord,ycoord) and small cell distance is (788,-146) and 238.034 and outer circle distance is 188.368
+ UID : 247 (xcoord,ycoord) and small cell distance is (568,-107) and 111.683 and outer circle distance is 147.123
+ UID : 248 (xcoord,ycoord) and small cell distance is (632,-127) and 130.969 and outer circle distance is 132.273
+ UID : 249 (xcoord,ycoord) and small cell distance is (605,-185) and 185.068 and outer circle distance is 195.75
+ UID : 250 (xcoord,ycoord) and small cell distance is (547,-10) and 53.9351 and outer circle distance is 122.386
+ UID : 251 (xcoord,ycoord) and small cell distance is (665,194) and 204.6 and outer circle distance is 194.041
+ UID : 252 (xcoord,ycoord) and small cell distance is (686,-192) and 210.381 and outer circle distance is 192.753
+ UID : 253 (xcoord,ycoord) and small cell distance is (793,129) and 232.142 and outer circle distance is 178.949
+ UID : 254 (xcoord,ycoord) and small cell distance is (551,-18) and 52.2015 and outer circle distance is 119.342
+ UID : 255 (xcoord,ycoord) and small cell distance is (707,206) and 232.131 and outer circle distance is 209.48
+ UID : 256 (xcoord,ycoord) and small cell distance is (672,117) and 137.379 and outer circle distance is 117.039
+ UID : 257 (xcoord,ycoord) and small cell distance is (697,-118) and 152.751 and outer circle distance is 121.282
+ UID : 258 (xcoord,ycoord) and small cell distance is (687,-28) and 91.3947 and outer circle distance is 33.2993
+ UID : 259 (xcoord,ycoord) and small cell distance is (657,174) and 183.098 and outer circle distance is 174.412
+ UID : 260 (xcoord,ycoord) and small cell distance is (681,121) and 145.609 and outer circle distance is 121.596
+ UID : 261 (xcoord,ycoord) and small cell distance is (561,148) and 153.052 and outer circle distance is 183.202
+ UID : 262 (xcoord,ycoord) and small cell distance is (668,142) and 157.442 and outer circle distance is 142.003
+ UID : 263 (xcoord,ycoord) and small cell distance is (497,82) and 131.655 and outer circle distance is 190.526
+ UID : 264 (xcoord,ycoord) and small cell distance is (510,-8) and 90.3549 and outer circle distance is 159.178
+ UID : 265 (xcoord,ycoord) and small cell distance is (819,-17) and 219.659 and outer circle distance is 150.983
+ UID : 266 (xcoord,ycoord) and small cell distance is (486,72) and 134.833 and outer circle distance is 196.633
+ UID : 267 (xcoord,ycoord) and small cell distance is (735,-157) and 207.06 and outer circle distance is 170.318
+ UID : 268 (xcoord,ycoord) and small cell distance is (714,36) and 119.549 and outer circle distance is 57.6463
+ UID : 269 (xcoord,ycoord) and small cell distance is (466,52) and 143.736 and outer circle distance is 209.532
+ UID : 270 (xcoord,ycoord) and small cell distance is (575,-30) and 39.0512 and outer circle distance is 98.649
+ UID : 271 (xcoord,ycoord) and small cell distance is (635,54) and 64.3506 and outer circle distance is 63.7998
+ UID : 272 (xcoord,ycoord) and small cell distance is (670,-213) and 224.207 and outer circle distance is 213.002
+ UID : 273 (xcoord,ycoord) and small cell distance is (706,-14) and 106.921 and outer circle distance is 39.5819
+ UID : 274 (xcoord,ycoord) and small cell distance is (473,82) and 151.172 and outer circle distance is 212.44
+ UID : 275 (xcoord,ycoord) and small cell distance is (695,-112) and 146.864 and outer circle distance is 114.984
+ UID : 276 (xcoord,ycoord) and small cell distance is (666,-80) and 103.711 and outer circle distance is 80.0554
+ UID : 277 (xcoord,ycoord) and small cell distance is (754,137) and 206.119 and outer circle distance is 161.239
+ UID : 278 (xcoord,ycoord) and small cell distance is (701,-119) and 156.083 and outer circle distance is 123.233
+ UID : 279 (xcoord,ycoord) and small cell distance is (626,176) and 177.91 and outer circle distance is 181.171
+ UID : 280 (xcoord,ycoord) and small cell distance is (634,-57) and 66.3702 and outer circle distance is 66.8758
+ UID : 281 (xcoord,ycoord) and small cell distance is (598,-7) and 7.28011 and outer circle distance is 71.321
+ UID : 282 (xcoord,ycoord) and small cell distance is (521,12) and 79.9062 and outer circle distance is 148.462
+ UID : 283 (xcoord,ycoord) and small cell distance is (629,-21) and 35.805 and outer circle distance is 45.1568
+ UID : 284 (xcoord,ycoord) and small cell distance is (553,-46) and 65.7647 and outer circle distance is 124.766
+ UID : 285 (xcoord,ycoord) and small cell distance is (678,103) and 129.201 and outer circle distance is 103.394
+ UID : 286 (xcoord,ycoord) and small cell distance is (651,49) and 70.7248 and outer circle distance is 52.1935
+ UID : 287 (xcoord,ycoord) and small cell distance is (635,-70) and 78.2624 and outer circle distance is 77.8101
+ UID : 288 (xcoord,ycoord) and small cell distance is (668,-167) and 180.314 and outer circle distance is 167.003
+ UID : 289 (xcoord,ycoord) and small cell distance is (458,-23) and 143.851 and outer circle distance is 212.227
+ UID : 290 (xcoord,ycoord) and small cell distance is (650,33) and 59.9083 and outer circle distance is 38.0672
+ UID : 291 (xcoord,ycoord) and small cell distance is (761,75) and 177.612 and outer circle distance is 118.715
+ UID : 292 (xcoord,ycoord) and small cell distance is (810,108) and 236.144 and outer circle distance is 177.628
+ UID : 293 (xcoord,ycoord) and small cell distance is (662,-10) and 62.8013 and outer circle distance is 12.1932
+ UID : 294 (xcoord,ycoord) and small cell distance is (546,-50) and 73.5935 and outer circle distance is 132.753
+ UID : 295 (xcoord,ycoord) and small cell distance is (788,81) and 204.707 and outer circle distance is 143.971
+ UID : 296 (xcoord,ycoord) and small cell distance is (793,-7) and 193.127 and outer circle distance is 124.221
+ UID : 297 (xcoord,ycoord) and small cell distance is (556,136) and 142.941 and outer circle distance is 176.804
+ UID : 298 (xcoord,ycoord) and small cell distance is (805,101) and 228.53 and outer circle distance is 169.421
+ UID : 299 (xcoord,ycoord) and small cell distance is (712,126) and 168.582 and outer circle distance is 133.143
+ UID : 300 (xcoord,ycoord) and small cell distance is (690,-84) and 123.11 and outer circle distance is 86.5909
+ UID : 301 (xcoord,ycoord) and small cell distance is (744,121) and 188.088 and outer circle distance is 142.371
+ UID : 302 (xcoord,ycoord) and small cell distance is (685,-171) and 190.961 and outer circle distance is 171.749
+ UID : 303 (xcoord,ycoord) and small cell distance is (760,-33) and 163.368 and outer circle distance is 96.8207
+ UID : 304 (xcoord,ycoord) and small cell distance is (624,134) and 136.132 and outer circle distance is 141.347
+ UID : 305 (xcoord,ycoord) and small cell distance is (807,111) and 234.883 and outer circle distance is 177.12
+ UID : 306 (xcoord,ycoord) and small cell distance is (581,188) and 188.958 and outer circle distance is 207.567
+ UID : 307 (xcoord,ycoord) and small cell distance is (846,77) and 257.769 and outer circle distance is 193.045
+ UID : 308 (xcoord,ycoord) and small cell distance is (499,42) and 109.385 and outer circle distance is 175.089
+ UID : 309 (xcoord,ycoord) and small cell distance is (762,-42) and 167.356 and outer circle distance is 102.065
+ UID : 310 (xcoord,ycoord) and small cell distance is (491,22) and 111.198 and outer circle distance is 179.331
+ UID : 311 (xcoord,ycoord) and small cell distance is (556,38) and 58.1378 and outer circle distance is 119.196
+ UID : 312 (xcoord,ycoord) and small cell distance is (605,-18) and 18.6815 and outer circle distance is 66.4606
+ UID : 313 (xcoord,ycoord) and small cell distance is (751,191) and 243.479 and outer circle distance is 207.867
+ UID : 314 (xcoord,ycoord) and small cell distance is (673,213) and 225.162 and outer circle distance is 213.038
+ UID : 315 (xcoord,ycoord) and small cell distance is (847,71) and 257.002 and outer circle distance is 191.659
+ UID : 316 (xcoord,ycoord) and small cell distance is (701,45) and 110.571 and outer circle distance is 55.2313
+ UID : 317 (xcoord,ycoord) and small cell distance is (509,-23) and 93.8616 and outer circle distance is 161.622
+ UID : 318 (xcoord,ycoord) and small cell distance is (653,40) and 66.4003 and outer circle distance is 43.0727
+Users with 0 traffic subscriptions : 141
+User ID : 144, Total rate : 0
+User ID : 164, Total rate : 0
+User ID : 213, Total rate : 0
+User ID : 167, Total rate : 0
+User ID : 277, Total rate : 0
+User ID : 178, Total rate : 0
+User ID : 76, Total rate : 0
+User ID : 247, Total rate : 0
+User ID : 135, Total rate : 0
+User ID : 118, Total rate : 0
+User ID : 287, Total rate : 0
+User ID : 210, Total rate : 0
+User ID : 283, Total rate : 0
+User ID : 47, Total rate : 0
+User ID : 38, Total rate : 0
+User ID : 266, Total rate : 0
+User ID : 298, Total rate : 0
+User ID : 207, Total rate : 0
+User ID : 67, Total rate : 0
+User ID : 87, Total rate : 0
+User ID : 24, Total rate : 0
+User ID : 220, Total rate : 0
+User ID : 59, Total rate : 0
+User ID : 263, Total rate : 0
+User ID : 237, Total rate : 0
+User ID : 280, Total rate : 0
+User ID : 202, Total rate : 0
+User ID : 238, Total rate : 0
+User ID : 241, Total rate : 0
+User ID : 159, Total rate : 0
+User ID : 66, Total rate : 0
+User ID : 4, Total rate : 0
+User ID : 158, Total rate : 0
+User ID : 206, Total rate : 0
+User ID : 236, Total rate : 0
+User ID : 60, Total rate : 0
+User ID : 296, Total rate : 0
+User ID : 276, Total rate : 0
+User ID : 28, Total rate : 0
+User ID : 114, Total rate : 0
+User ID : 166, Total rate : 0
+User ID : 1, Total rate : 0
+User ID : 151, Total rate : 0
+User ID : 40, Total rate : 0
+User ID : 106, Total rate : 0
+User ID : 307, Total rate : 0
+User ID : 252, Total rate : 0
+User ID : 51, Total rate : 0
+User ID : 251, Total rate : 0
+User ID : 96, Total rate : 0
+User ID : 13, Total rate : 0
+User ID : 16, Total rate : 0
+User ID : 179, Total rate : 0
+User ID : 218, Total rate : 0
+User ID : 244, Total rate : 0
+User ID : 147, Total rate : 0
+User ID : 9, Total rate : 0
+User ID : 278, Total rate : 0
+User ID : 81, Total rate : 0
+User ID : 93, Total rate : 0
+User ID : 302, Total rate : 0
+User ID : 294, Total rate : 0
+User ID : 291, Total rate : 0
+User ID : 97, Total rate : 0
+User ID : 141, Total rate : 0
+User ID : 248, Total rate : 0
+User ID : 270, Total rate : 0
+User ID : 212, Total rate : 0
+User ID : 262, Total rate : 0
+User ID : 201, Total rate : 0
+User ID : 71, Total rate : 0
+User ID : 313, Total rate : 0
+User ID : 7, Total rate : 0
+User ID : 107, Total rate : 0
+User ID : 185, Total rate : 0
+User ID : 261, Total rate : 0
+User ID : 286, Total rate : 0
+User ID : 36, Total rate : 0
+User ID : 89, Total rate : 0
+User ID : 130, Total rate : 0
+User ID : 288, Total rate : 0
+User ID : 292, Total rate : 0
+User ID : 136, Total rate : 0
+User ID : 62, Total rate : 0
+User ID : 120, Total rate : 0
+User ID : 37, Total rate : 0
+User ID : 134, Total rate : 0
+User ID : 216, Total rate : 0
+User ID : 103, Total rate : 0
+User ID : 32, Total rate : 0
+User ID : 209, Total rate : 0
+User ID : 228, Total rate : 0
+User ID : 171, Total rate : 0
+User ID : 17, Total rate : 0
+User ID : 98, Total rate : 0
+User ID : 165, Total rate : 0
+User ID : 75, Total rate : 0
+User ID : 189, Total rate : 0
+User ID : 222, Total rate : 0
+User ID : 281, Total rate : 0
+User ID : 242, Total rate : 0
+User ID : 74, Total rate : 0
+User ID : 137, Total rate : 0
+User ID : 198, Total rate : 0
+User ID : 160, Total rate : 0
+User ID : 56, Total rate : 0
+User ID : 245, Total rate : 0
+User ID : 79, Total rate : 0
+User ID : 61, Total rate : 0
+User ID : 152, Total rate : 0
+User ID : 55, Total rate : 0
+User ID : 226, Total rate : 0
+User ID : 169, Total rate : 0
+User ID : 72, Total rate : 0
+User ID : 255, Total rate : 0
+User ID : 186, Total rate : 0
+User ID : 11, Total rate : 0
+User ID : 112, Total rate : 0
+User ID : 197, Total rate : 0
+User ID : 301, Total rate : 0
+User ID : 99, Total rate : 0
+User ID : 2, Total rate : 0
+User ID : 191, Total rate : 0
+User ID : 131, Total rate : 0
+User ID : 162, Total rate : 0
+User ID : 215, Total rate : 0
+User ID : 196, Total rate : 0
+User ID : 304, Total rate : 0
+User ID : 121, Total rate : 0
+User ID : 53, Total rate : 0
+User ID : 275, Total rate : 0
+User ID : 227, Total rate : 0
+User ID : 45, Total rate : 0
+User ID : 163, Total rate : 0
+User ID : 154, Total rate : 0
+User ID : 104, Total rate : 0
+User ID : 272, Total rate : 0
+User ID : 27, Total rate : 0
+User ID : 315, Total rate : 0
+User ID : 94, Total rate : 0
+User ID : 289, Total rate : 0
+Users with 1 traffic subscriptions : 141
+User ID : 316, Total rate : 0.016
+User ID : 44, Total rate : 0.032
+User ID : 271, Total rate : 0.032
+User ID : 124, Total rate : 0.032
+User ID : 88, Total rate : 0.016
+User ID : 305, Total rate : 0.032
+User ID : 119, Total rate : 0.008
+User ID : 161, Total rate : 0.016
+User ID : 257, Total rate : 0.008
+User ID : 224, Total rate : 0.008
+User ID : 148, Total rate : 0.008
+User ID : 70, Total rate : 0.016
+User ID : 192, Total rate : 0.016
+User ID : 18, Total rate : 0.008
+User ID : 73, Total rate : 0.016
+User ID : 199, Total rate : 0.008
+User ID : 39, Total rate : 0.032
+User ID : 205, Total rate : 0.016
+User ID : 204, Total rate : 0.032
+User ID : 184, Total rate : 0.032
+User ID : 274, Total rate : 0.032
+User ID : 285, Total rate : 0.032
+User ID : 127, Total rate : 0.008
+User ID : 233, Total rate : 0.008
+User ID : 254, Total rate : 0.016
+User ID : 57, Total rate : 0.008
+User ID : 25, Total rate : 0.032
+User ID : 5, Total rate : 0.032
+User ID : 43, Total rate : 0.032
+User ID : 125, Total rate : 0.032
+User ID : 208, Total rate : 0.008
+User ID : 19, Total rate : 0.032
+User ID : 309, Total rate : 0.008
+User ID : 299, Total rate : 0.032
+User ID : 10, Total rate : 0.016
+User ID : 143, Total rate : 0.008
+User ID : 78, Total rate : 0.008
+User ID : 12, Total rate : 0.008
+User ID : 282, Total rate : 0.032
+User ID : 82, Total rate : 0.008
+User ID : 80, Total rate : 0.032
+User ID : 142, Total rate : 0.016
+User ID : 15, Total rate : 0.032
+User ID : 157, Total rate : 0.032
+User ID : 34, Total rate : 0.016
+User ID : 58, Total rate : 0.008
+User ID : 200, Total rate : 0.016
+User ID : 232, Total rate : 0.008
+User ID : 239, Total rate : 0.008
+User ID : 153, Total rate : 0.016
+User ID : 269, Total rate : 0.032
+User ID : 31, Total rate : 0.008
+User ID : 133, Total rate : 0.008
+User ID : 312, Total rate : 0.032
+User ID : 181, Total rate : 0.008
+User ID : 42, Total rate : 0.016
+User ID : 267, Total rate : 0.016
+User ID : 273, Total rate : 0.008
+User ID : 149, Total rate : 0.008
+User ID : 259, Total rate : 0.032
+User ID : 314, Total rate : 0.032
+User ID : 50, Total rate : 0.008
+User ID : 180, Total rate : 0.016
+User ID : 132, Total rate : 0.008
+User ID : 101, Total rate : 0.008
+User ID : 109, Total rate : 0.032
+User ID : 219, Total rate : 0.008
+User ID : 303, Total rate : 0.032
+User ID : 170, Total rate : 0.032
+User ID : 256, Total rate : 0.008
+User ID : 176, Total rate : 0.032
+User ID : 308, Total rate : 0.032
+User ID : 318, Total rate : 0.008
+User ID : 92, Total rate : 0.032
+User ID : 183, Total rate : 0.016
+User ID : 110, Total rate : 0.016
+User ID : 20, Total rate : 0.008
+User ID : 155, Total rate : 0.008
+User ID : 91, Total rate : 0.008
+User ID : 317, Total rate : 0.016
+User ID : 14, Total rate : 0.008
+User ID : 156, Total rate : 0.008
+User ID : 264, Total rate : 0.016
+User ID : 194, Total rate : 0.032
+User ID : 146, Total rate : 0.032
+User ID : 310, Total rate : 0.032
+User ID : 22, Total rate : 0.016
+User ID : 117, Total rate : 0.008
+User ID : 26, Total rate : 0.032
+User ID : 145, Total rate : 0.016
+User ID : 48, Total rate : 0.032
+User ID : 6, Total rate : 0.032
+User ID : 139, Total rate : 0.008
+User ID : 23, Total rate : 0.008
+User ID : 100, Total rate : 0.032
+User ID : 35, Total rate : 0.008
+User ID : 102, Total rate : 0.032
+User ID : 177, Total rate : 0.008
+User ID : 108, Total rate : 0.016
+User ID : 123, Total rate : 0.032
+User ID : 230, Total rate : 0.016
+User ID : 234, Total rate : 0.016
+User ID : 217, Total rate : 0.016
+User ID : 223, Total rate : 0.032
+User ID : 126, Total rate : 0.008
+User ID : 41, Total rate : 0.016
+User ID : 182, Total rate : 0.032
+User ID : 113, Total rate : 0.016
+User ID : 29, Total rate : 0.008
+User ID : 175, Total rate : 0.032
+User ID : 64, Total rate : 0.016
+User ID : 150, Total rate : 0.008
+User ID : 193, Total rate : 0.008
+User ID : 311, Total rate : 0.032
+User ID : 140, Total rate : 0.032
+User ID : 295, Total rate : 0.032
+User ID : 290, Total rate : 0.032
+User ID : 83, Total rate : 0.016
+User ID : 68, Total rate : 0.008
+User ID : 111, Total rate : 0.016
+User ID : 86, Total rate : 0.016
+User ID : 95, Total rate : 0.008
+User ID : 211, Total rate : 0.032
+User ID : 284, Total rate : 0.032
+User ID : 188, Total rate : 0.008
+User ID : 65, Total rate : 0.008
+User ID : 268, Total rate : 0.032
+User ID : 221, Total rate : 0.016
+User ID : 279, Total rate : 0.032
+User ID : 195, Total rate : 0.008
+User ID : 90, Total rate : 0.016
+User ID : 69, Total rate : 0.008
+User ID : 3, Total rate : 0.032
+User ID : 85, Total rate : 0.016
+User ID : 115, Total rate : 0.016
+User ID : 190, Total rate : 0.016
+User ID : 253, Total rate : 0.016
+User ID : 306, Total rate : 0.008
+User ID : 214, Total rate : 0.032
+User ID : 168, Total rate : 0.016
+User ID : 84, Total rate : 0.032
+Users with 2 traffic subscriptions : 35
+User ID : 243, Total rate : 0.024
+User ID : 8, Total rate : 0.048
+User ID : 300, Total rate : 0.04
+User ID : 52, Total rate : 0.048
+User ID : 116, Total rate : 0.024
+User ID : 172, Total rate : 0.04
+User ID : 240, Total rate : 0.048
+User ID : 246, Total rate : 0.04
+User ID : 174, Total rate : 0.048
+User ID : 77, Total rate : 0.04
+User ID : 46, Total rate : 0.024
+User ID : 33, Total rate : 0.04
+User ID : 21, Total rate : 0.048
+User ID : 129, Total rate : 0.024
+User ID : 260, Total rate : 0.024
+User ID : 235, Total rate : 0.048
+User ID : 187, Total rate : 0.048
+User ID : 203, Total rate : 0.024
+User ID : 122, Total rate : 0.04
+User ID : 249, Total rate : 0.024
+User ID : 128, Total rate : 0.048
+User ID : 30, Total rate : 0.04
+User ID : 229, Total rate : 0.04
+User ID : 250, Total rate : 0.04
+User ID : 293, Total rate : 0.04
+User ID : 138, Total rate : 0.024
+User ID : 173, Total rate : 0.04
+User ID : 49, Total rate : 0.048
+User ID : 258, Total rate : 0.024
+User ID : 54, Total rate : 0.024
+User ID : 231, Total rate : 0.024
+User ID : 297, Total rate : 0.048
+User ID : 225, Total rate : 0.04
+User ID : 265, Total rate : 0.024
+User ID : 63, Total rate : 0.04

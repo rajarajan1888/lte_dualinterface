@@ -1,0 +1,15 @@
+results:
+
+100m - 169667 bits per sub frame for inner circle ; 312 users within the outer circle - 0.0065 (24.5 , 25.63) 23,24
+
+200m - 415012 bits per sub frame for inner circle ; 290 users within the outer circle - 0.0044 (66.31 , 102.53) 66,102.05
+300m - 948714 bits per sub frame for inner circle ; 320 users within the outer circle - 0.0044 (149.211 , 230.701) 147, 
+400m - 1290855 bits per sub frame for inner circle ; 312 users within the outer circle - 0.0034 (204.977 , 410.125) 203
+500m - 1792543 bits per sub frame for inner circle ; 302 users within the outer circle - 0.003 (282.6 ,  ) 279
+
+500m - 815161 bits per sub frame for inner circle ; 311 users within the outer circle - 0.0014 (85,126.86,271.855)
+600m - 790035 bits per sub frame for inner circle ; 316 users within the outer circle - 0.00103 (84,   ,365.164) 
+700m - 823108 bits per sub frame for inner circle ; 316 users within the outer circle - 0.00085 (91, ,479.367)
+800m - 
+
+

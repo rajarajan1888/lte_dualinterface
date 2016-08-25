@@ -1,0 +1,10 @@
+set label "1" at 1010,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "1" at 1010,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "2" at 1990,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "2" at 1990,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "3" at 1500,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "3" at 1500,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "4" at 1250,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "4" at 1250,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "5" at 1200,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0
+set label "5" at 1200,2000 left font "Helvetica,15" textcolor rgb "white" front point pt 2 ps 0.3 lc rgb "white" offset 0,0

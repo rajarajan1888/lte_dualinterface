@@ -1,0 +1,6 @@
+#Sun Mar 03 18:16:00 PST 2013
+eclipse.preferences.version=1
+repo_=d27 http\://lena.cttc.es/hg/lena 0  0  7 default|
+hg=/usr/local/bin/hg
+//repo_/home/rajarajan/Documents/lena/att_workspace=d27 http\://lena.cttc.es/hg/lena 0  0  7 default|
+hg.batchsize.status=10

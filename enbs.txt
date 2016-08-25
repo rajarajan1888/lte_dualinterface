@@ -1,0 +1,2 @@
+set label "1" at 1000,2000 left font "Helvetica,15" textcolor rgb "grey" front  point pt 2 ps 0.3 lc rgb "grey" offset 0,0
+set label "2" at 2000,2000 left font "Helvetica,15" textcolor rgb "grey" front  point pt 2 ps 0.3 lc rgb "grey" offset 0,0

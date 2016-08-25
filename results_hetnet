@@ -1,0 +1,109 @@
+Pico power = 30.0 dBm ; Macro power = 47.78 dBm
+Pico BW = 50 RBs ; Macro BW = 50 RBs
+Pico 1 = (10,10,1.5) , Pico 2 = (1500,3000,1.5) ; Macro = (500,2000,1.5)
+
+UE 1 = (10,10,1.5) , UE 2 = (1500,3000,1.5) , UE 3 = (1400,2850,1.5) , UE 4 = (100,2600,1.5) , 
+UE 5 = (10,500,1.5)
+
+ABS blanking
+
+-----
+
+Total  = -29.94 dBm
+Total = -29.94 dBm
+Total = -76.4135 dBm
+Total = -76.4135 dBm
+///Total = -85.95 dBm (DOESN'T MAKE SENSE ??? - RECHECK 30 dBm lower than UE 3) 
+Total = -83.767 dBm (DOESN'T MAKE SENSE ??? - RECHECK 15 dBm lower than UE 3) 
+Total = -83.767 dBm
+-------
+
+Non-ABS
+
+--------
+
+Total = -29.94 dBm
+Total = -29.94 dBm
+Total = -76.4127 dBm	Interference = -91.8 dBm
+Total = -76.4127 dBm	Interference = -91.8 dBm
+Total = -76.75 dBm
+Total = -83.767 dBm
+Total = -83.767 dBm
+
+---------
+
+*********************
+
+Pico power = 30.0 dBm ; Macro power = 47.78 dBm
+Pico BW = 50 RBs ; Macro BW = 50 RBs
+Pico 1 = (350,1600,1.5) , Pico 2 = (1500,3000,1.5) ; Macro = (500,2000,1.5)
+
+UE 1 = (350,1600,1.5) , UE 2 = (1500,3000,1.5) , UE 3 = (1400,2850,1.5) , UE 4 = (100,2200,1.5) , 
+UE 5 = (100,2000,1.5)
+
+ABS blanking
+-------
+
+Total = -29.94 dBm
+Total = -29.94 dBm
+Total = -76.408 dBm
+Total = -76.408 dBm
+Total = -85.5814 dBm ()
+Total = -81.24 dBm
+Total = -81.24 dBm
+
+-------
+
+Non-ABS
+
+--------
+
+Total = -29.94 dBm	INTERFERENCE WITHOUT eICIC
+Total = -29.94 dBm
+Total = -76.407 dBm	Interference = -91.5 dBm
+Total = -76.407 dBm	Interference = -91.5 dBm
+Total = -75.7475 dBm	Interference = -85.58 dBm
+Total = -78.31 dBm	Interference = -81.34 dBm
+Total = -78.31 dBm	Interference = -81.34 dBm
+
+--------
+
+*********************
+
+Pico power = 30.0 dBm ; Macro power = 47.78 dBm
+Pico BW = 50 RBs ; Macro BW = 50 RBs
+Pico 1 = (350,1600,1.5) , Pico 2 = (700,2350,1.5) ; Macro = (500,2000,1.5)
+
+UE 1 = (350,1600,1.5) , UE 2 = (700,2350,1.5) , UE 3 = (750,2600,1.5) , UE 4 = (100,2200,1.5) , 
+UE 5 = (100,2000,1.5)
+
+eICIC
+
+------------
+
+Total = -29.94 dBm
+Total = -29.94 dBm
+Total = -80.23 dBm
+Total = -80.23 dBm
+Total = -83.25 dBm
+Total = -80.57 dBm
+Total = -80.57 dBm
+
+-------------
+
+No eICIC
+
+--------------
+
+Total = -29.94 dBm	INTERFERENCE WITHOUT eICIC
+Total = -29.94 dBm
+Total = -80.85 dBm	Interference = -83.36 dBm
+Total = -80.85 dBm	Interference = -83.36 dBm
+Total = -75.66 dBm	Interference = -83.25 dBm
+Total = -77.93 dBm	Interference = -81.35 dBm
+Total = -77.93 dBm	Interference = -81.35 dBm
+
+---------------
+
+*********************
+

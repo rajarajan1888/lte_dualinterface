@@ -1,0 +1,391 @@
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 
+Control Msg list is NOT empty 
+CQI? 
+ Harq DL Info Map begins 

@@ -1,0 +1,7 @@
+#Wed Mar 06 20:49:52 PST 2013
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1272502265/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1272502265/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1272502265/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/home/Documents/lena/build
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1272502265/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1272502265/appendContributed=true

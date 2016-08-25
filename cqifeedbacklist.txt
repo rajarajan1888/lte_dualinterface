@@ -1,0 +1,58 @@
+CREATE CQI FEEDBACKS
+ Time : 1 RBG Size = 50 LTE AMC Module : 0x80d3ef8 RB ID : 50 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+CREATE CQI FEEDBACKS
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 3 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 6 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 9 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 12 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 15 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 18 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 21 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 24 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 27 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 30 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 33 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 36 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 39 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 42 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 45 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 48 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d3ef8 RB ID : 50 MCS : 28 SINR : 11962 CQI : 15 Spectral Efficiency : 5.55, TB Size = 4395 Throughput = 4.395e+06
+CREATE CQI FEEDBACKS
+ Time : 1 RBG Size = 50 LTE AMC Module : 0x80d5b68 RB ID : 50 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+CREATE CQI FEEDBACKS
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 3 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 6 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 9 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 12 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 15 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 18 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 21 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 24 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 27 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 30 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 33 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 36 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 39 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 42 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 45 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 48 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d5b68 RB ID : 50 MCS : 0 SINR : 4.10207e-09 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+CREATE CQI FEEDBACKS
+ Time : 1 RBG Size = 50 LTE AMC Module : 0x80d7020 RB ID : 50 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+CREATE CQI FEEDBACKS
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 3 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 6 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 9 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 12 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 15 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 18 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 21 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 24 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 27 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 30 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 33 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 36 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 39 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 0x80d7020 RB ID : 42 MCS : 0 SINR : 0.00435192 CQI : 0 Spectral Efficiency : 0.15, TB Size = 165 Throughput = 165000
+ Time : 1 RBG Size = 3 LTE AMC Module : 

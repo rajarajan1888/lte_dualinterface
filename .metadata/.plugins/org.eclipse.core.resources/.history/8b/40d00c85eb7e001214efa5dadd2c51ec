@@ -1,0 +1,131 @@
+/* -*-  Mode: C++; c-file-style: "gnu"; indent-tabs-mode:nil; -*- */
+/*
+ * Copyright (c) 2011 Centre Tecnologic de Telecomunicacions de Catalunya (CTTC)
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 2 as
+ * published by the Free Software Foundation;
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ *
+ * Author: Nicola Baldo <nbaldo@cttc.es>
+ */
+
+#ifndef LTE_ADVANCED_HELPER_H
+#define LTE_ADVANCED_HELPER_H
+
+#include <ns3/config.h>
+#include <ns3/simulator.h>
+#include <ns3/names.h>
+#include <ns3/net-device.h>
+#include <ns3/net-device-container.h>
+#include <ns3/node.h>
+#include <ns3/node-container.h>
+#include <ns3/eps-bearer.h>
+#include <ns3/phy-stats-calculator.h>
+#include <ns3/mac-stats-calculator.h>
+#include <ns3/radio-bearer-stats-calculator.h>
+#include <ns3/epc-tft.h>
+#include <ns3/mobility-model.h>
+
+namespace ns3 {
+
+class LteHelper;
+
+/**
+ * Creation and configuration of LTE entities
+ *
+ */
+class LteAdvancedHelper : public Object
+{
+public:
+  LteAdvancedHelper (void);
+  virtual ~LteAdvancedHelper (void);
+
+  static TypeId GetTypeId (void);
+  virtual void DoDispose (void);
+
+  // RAJARAJAN
+
+  /**
+     * create a vector of network interfaces per eNB for inter-band CA
+     *
+     * \param c the node container where the devices are to be installed
+     *
+     * \return the NetDeviceContainer with the newly created devices
+     */
+  std::vector<NetDeviceContainer> InstallEnbDeviceCA (NodeContainer c);
+
+  /**
+     * create a vector of network interfaces per UE for inter-band CA
+     *
+     * \param c the node container where the devices are to be installed
+     *
+     * \return the NetDeviceContainer with the newly created devices
+     */
+
+  std::vector<NetDeviceContainer> InstallUeDeviceCA (NodeContainer c);
+
+  /**
+   * Attach the UE devices of all the UEs to all the network interfaces of a single eNB device
+   *
+   * \param ueDevices
+   * \param enbDevice
+   */
+  void AttachCA (std::vector<NetDeviceContainer> ueDevices, std::vector<NetDeviceContainer> enbDevices);
+
+  // -- RAJARAJAN --
+
+
+protected:
+  // inherited from Object
+  virtual void DoStart (void);
+
+private:
+  std::vector<Ptr<NetDevice> > InstallMultipleEnbDevice (Ptr<Node> n);
+  std::vector<Ptr<NetDevice> > InstallMultipleUeDevice (Ptr<Node> n);
+
+  void DoHandoverRequest (Ptr<NetDevice> ueDev, Ptr<NetDevice> sourceEnbDev, Ptr<NetDevice> targetEnbDev);
+
+  Ptr<SpectrumChannel> m_downlinkChannel;
+  Ptr<SpectrumChannel> m_uplinkChannel;
+
+  Ptr<Object> m_downlinkPathlossModel;
+  Ptr<Object> m_uplinkPathlossModel;
+
+  ObjectFactory m_schedulerFactory;
+  ObjectFactory m_propagationModelFactory;
+  ObjectFactory m_enbNetDeviceFactory;
+  ObjectFactory m_enbAntennaModelFactory;
+  ObjectFactory m_ueAntennaModelFactory;
+
+  ObjectFactory m_dlPathlossModelFactory;
+  ObjectFactory m_ulPathlossModelFactory;
+
+  ObjectFactory m_channelFactory;
+
+  std::string m_fadingModelType;
+  ObjectFactory m_fadingModelFactory;
+
+  Ptr<PhyStatsCalculator> m_phyStats;
+  Ptr<MacStatsCalculator> m_macStats;
+  Ptr<RadioBearerStatsCalculator> m_rlcStats;
+  Ptr<RadioBearerStatsCalculator> m_pdcpStats;
+
+  Ptr<EpcHelper> m_epcHelper;
+
+};
+
+
+} // namespace ns3
+
+
+
+#endif // LTE_HELPER_H

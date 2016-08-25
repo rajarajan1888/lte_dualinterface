@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;att_workspace/src/lte/helper/lte-advanced-helper&apos; to &apos;lte-advanced-helper.h&apos;" description="Rename resource &apos;lte-advanced-helper&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/lte/helper/lte-advanced-helper" name="lte-advanced-helper.h" stamp="1361751977122" updateReferences="true"/>
+</session>

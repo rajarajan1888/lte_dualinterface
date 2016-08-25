@@ -1,0 +1,2 @@
+Value : TRUE 
+ RNTI = 1 LCID = 1 Layer = 0 RLC PDU List = 4395 DCI HARQ = 
